@@ -1,0 +1,428 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="1">
+
+        <meta property="og:title" content="Controllers e Mecanismos de transporte | Tony Messias"/>
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://tonysm.github.io/blog/2014-02-21-controllers-e-mecanismos-de-transporte"/>
+        <meta property="og:description" content="Personal blog. Web development, Linux, and Programming in general." />
+
+        <title>Tony Messias | Controllers e Mecanismos de transporte</title>
+
+        <link rel="home" href="https://tonysm.github.io">
+        <link rel="icon" href="/favicon.ico">
+        <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="Tony Messias Atom Feed">
+
+            <meta property="og:title" content="Controllers e Mecanismos de transporte" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://tonysm.github.io/blog/2014-02-21-controllers-e-mecanismos-de-transporte"/>
+    <meta property="og:description" content="" />
+
+                    <!-- Insert analytics code here -->
+        
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=eba5fb408a32459130fd">
+    </head>
+
+    <body class="flex flex-col justify-between min-h-screen bg-grey-lightest text-grey-darkest leading-normal font-sans">
+        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
+            <div class="container flex items-center max-w-4xl mx-auto px-4 lg:px-8">
+                <div class="flex items-center">
+                    <a href="/" title="Tony Messias home" class="inline-flex items-center">
+                        <h1 class="text-lg md:text-2xl text-blue-darkest font-semibold hover:text-blue-dark my-0">Tony Messias</h1>
+                    </a>
+                </div>
+
+                <div id="vue-search" class="flex flex-1 justify-end items-center">
+                    <search></search>
+
+                    <nav class="hidden lg:flex items-center justify-end text-lg">
+    <a title="Tony Messias Articles" href="https://tonysm.github.io/blog"
+        class="ml-6 text-grey-darker hover:text-blue-dark ">
+        Articles
+    </a>
+
+    <a title="Tony Messias About" href="https://tonysm.github.io/about"
+        class="ml-6 text-grey-darker hover:text-blue-dark ">
+        About
+    </a>
+
+</nav>
+
+                    <button class="flex justify-center items-center bg-blue border border-blue h-10 px-5 rounded-full lg:hidden focus:outline-none"
+    onclick="navMenu.toggle()"
+>
+    <svg id="js-nav-menu-show" xmlns="http://www.w3.org/2000/svg"
+        class="fill-current text-white h-9 w-4" viewBox="0 0 32 32"
+    >
+        <path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/>
+    </svg>
+
+    <svg id="js-nav-menu-hide" xmlns="http://www.w3.org/2000/svg"
+        class="hidden fill-current text-white h-9 w-4" viewBox="0 0 36 30"
+    >
+        <polygon points="32.8,4.4 28.6,0.2 18,10.8 7.4,0.2 3.2,4.4 13.8,15 3.2,25.6 7.4,29.8 18,19.2 28.6,29.8 32.8,25.6 22.2,15 "/>
+    </svg>
+</button>
+
+                </div>
+            </div>
+        </header>
+
+        <nav id="js-nav-menu" class="nav-menu hidden lg:hidden">
+    <ul class="list-reset my-0">
+        <li class="pl-4">
+            <a
+                title="Tony Messias Articles"
+                href="https://tonysm.github.io/blog"
+                class="nav-menu__item hover:text-blue "
+            >Articles</a>
+        </li>
+        <li class="pl-4">
+            <a
+                title="Tony Messias About"
+                href="https://tonysm.github.io/about"
+                class="nav-menu__item hover:text-blue "
+            >About</a>
+        </li>
+    </ul>
+</nav>
+
+        <main role="main" class="flex-auto w-full container max-w-xl mx-auto py-16 px-6">
+                        <img src="/assets/images/posts/transport-doctor-who.jpg" alt="Controllers e Mecanismos de transporte cover image" class="mb-2">
+    
+    <h1 class="leading-none mb-2">Controllers e Mecanismos de transporte</h1>
+
+    <p class="text-grey-darker text-xl md:mt-0">Tony Messias  •  February 21, 2014</p>
+
+                        <a
+                href="/blog/categories/PHP"
+                title="View posts in PHP"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >PHP</a>
+                    <a
+                href="/blog/categories/Controller"
+                title="View posts in Controller"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >Controller</a>
+                    <a
+                href="/blog/categories/Architecture"
+                title="View posts in Architecture"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >Architecture</a>
+                    <a
+                href="/blog/categories/Arquitetura"
+                title="View posts in Arquitetura"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >Arquitetura</a>
+                    <a
+                href="/blog/categories/Camadas"
+                title="View posts in Camadas"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >Camadas</a>
+                    <a
+                href="/blog/categories/Layers"
+                title="View posts in Layers"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >Layers</a>
+                    <a
+                href="/blog/categories/Transport"
+                title="View posts in Transport"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >Transport</a>
+                    <a
+                href="/blog/categories/transporte"
+                title="View posts in transporte"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >transporte</a>
+            
+    <div class="border-b border-blue-lighter mb-10 pb-4" v-pre>
+        <p>O trabalho de um Controller é pegar informações HTTP e passar para a aplicação (como um mecanismo de transporte), o que faz todo sentido, já que não queremos ter Controllers sabendo demais. Mas, acontece que não é tão simples organizar o código, é uma tarefa bastante complicada, na verdade. Comecei a usar o <strong><em>Repository Pattern</em></strong>, mas acabei acomplando meus Controllers a vários repositórios, o que acaba sendo custoso, visto que para cada request, vários repositórios são carregados..</p>
+<p>Mas não acho que seja papel do Controller interagir diretamente com models ou Repositórios, então, isso sempre me incomodou. Até que, assistindo a um vídeo do <a href="http://cleancoders.com">Uncle Bob</a> em que ele mensiona os Interactors, pensei &quot;É isso! Faz todo sentido!&quot;.</p>
+<p>Quem nunca se pegou pensando &quot;como faço para utilizar o método desse controller em outro lugar?&quot;. A resposta é: &quot;Você não deve utilizar seus controllers em outros lugares!&quot;.</p>
+<p>Para quem não viu, aqui vai um resumo.</p>
+<h2>Interactors</h2>
+<p>Com os Interactors, o papel do seu controller é basicamente capturar qualquer informação do protocolo utilizado (HTTP) como, por exemplo, qual o usuário autenticado no sistema, qual o id do <em>resource</em> que foi passado e entregar essas informações como argumentos para os <em>interactors</em>, assim como tratar as <em>exceções</em> disparadas pelos mesmos e converter essas informações para a resposta do <em>client</em> (HTML, JSON ou, quem sabe, (uhh!) XML)... ou melhor, passar essa responsabilidade de conversão das respostas para outra camada de <em>parsers</em>.</p>
+<p>O mais legal disso é que a sua aplicação fica desacoplada do mecanismo de transporte. Isso é, para fazer essa mesma funcionalidade via <strong>cli</strong> (terminal), por exemplo, bastaria chamar o Interactor e supri-lo com os mesmos parâmetros que são passados pelo controller (tratar as exceptions também) e voilà! Temos um <em>cli command</em> que faz o mesmo que o controller, só que usando protocolos diferentes.</p>
+<h2>O que o seu Interactor deve saber</h2>
+<p>Qualquer coisa que não seja relacionada com funções de outras camadas da sua aplicação. Isso é, não devemos persistir dados diretamente do Interactor, por exemplo. Entretanto, podemos utilizar os repositórios da aplicação diretamente nele. Dessa forma, poderiamos ter um <em>Interactor</em> por <em>Use Case</em>, como é sugerido pelo próprio Uncle Bob. Ou seja, um Controller teria conhecimento dos Interactors (ou Use Cases) que ele é responsável. Fez todo sentido para mim quando ouvi falar disso. Mas ainda estou aprendendo a colocar em prática esse padrão. Farei um video de teste desse padrão e atualizarei o <em>post</em> colocando o link aqui.</p>
+<h2>Updated: Show me the code!</h2>
+<p>Enquanto não gravo o vídeo, resolvi compartilhar um pouco de código aqui pra exemplificar melhor. Vamos lá!</p>
+<p>Dado o seguinte caso de uso: Passar uma task para outro usuário em um sistema de gerenciamento de tarefas. Precisamos atualizar a task e notificar o novo usuário que o mesmo tem uma nova task. Normalmente, teriamos um controller assim:</p>
+<pre><code class="language-php">&lt;?php
+
+use Acme\Repositories\TaskRepository;
+use Acme\Repositories\UserRepository;
+use Acme\Mailers\UserMailer;
+
+class TasksController extends Controller
+{
+    /**
+     * @var Acme\Repositories\TaskRepository
+     */
+    protected $tasks;
+
+    /**
+     * @var Acme\Repositories\UserRepository
+     */
+    protected $users;
+
+    /**
+     * @var Acme\Mailers\UserMailer
+     */
+    protected $mailer;
+
+    /**
+     * @param TaskRepository $tasks
+     * @param UserRepository $users
+     * @param UserMailer $mailer
+     */
+    public function __construct(
+        TaskRepository $tasks, 
+        UserRepository $users, 
+        UserMailer $mailer
+    ) {
+        $this-&gt;tasks = $tasks;
+        $this-&gt;users = $users;
+        $this-&gt;mailer = $mailer;
+    }
+
+    /**
+     * @param string|int $task_id
+     * @param string|int $user_id
+     * @return mixed
+     */
+    public function transfer($task_id, $user_id)
+    {
+        $userTo = $this-&gt;users-&gt;find($user_id);
+        $task = $this-&gt;tasks-&gt;find($task_id);
+
+        $task-&gt;setUser($userTo);
+
+        if (! $this-&gt;tasks-&gt;save($task)) {
+            return Redirect::to('tasks')-&gt;withErrors($this-&gt;tasks-&gt;getErrors());
+        }
+
+        $this-&gt;mailer-&gt;notifyTaskTransference($task, $userTo);
+
+        return Redirect::to('tasks')-&gt;with(['message' =&gt; Lang::get('tasks.transfer.success']);
+    }
+}</code></pre>
+<p>O código até que tá limpo, mas ainda dá pra melhorar.. Nosso Controller, que faz está fora da camada da nossa aplicação (faz parte do front-end, por assim dizer), sabe que temos repositórios, mailers, etc, etc.. Idealmente, nosso Controller deve saber apenas QUEM realiza suas tarefas e os possíveis erros. Uma forma muito mais limpa para tal modelo é utilizando Interactors, como mostrado abaixo:</p>
+<pre><code class="language-php">&lt;?php namespace Acme\Interactors\Tasks;
+
+use Acme\Repositories\TaskRepository;
+use Acme\Repositories\UserRepository;
+use Acme\Mailers\UserMailer;
+use Acme\Interactors\Exceptions\CannotTransferTaskException;
+
+class TransferenceInteractor
+{
+    /**
+     * @var Acme\Repositories\TaskRepository
+     */
+    protected $tasks;
+
+    /**
+     * @var Acme\Repositories\UserRepository
+     */
+    protected $users;
+
+    /**
+     * @var Acme\Mailers\UserMailer
+     */
+    protected $mailer;
+
+    /**
+     * @param TaskRepository $tasks
+     * @param UserRepository $users
+     * @param UserMailer $mailer
+     */
+    public function __construct(
+        TaskRepository $tasks,
+        UserRepository $users,
+        UserMailer $mailer
+    ) {
+        $this-&gt;tasks = $tasks;
+        $this-&gt;users = $users;
+        $this-&gt;mailer = $mailer;
+    }
+
+    /**
+     * @param string|int $task_id
+     * @param string|int $user_id
+     * @return void
+     * @throws CannotTransferTaskException
+     */
+    public function transfer($task_id, $user_id)
+    {
+        $userTo = $this-&gt;users-&gt;find($user_id);
+        $task = $this-&gt;tasks-&gt;find($task_id);
+
+        $task-&gt;setUser($userTo);
+
+        if (! $this-&gt;tasks-&gt;save($task)) {
+            throw new CannotTransferTaskException($this-&gt;tasks-&gt;getErros());
+        }
+
+        $this-&gt;mailer-&gt;notifyTaskTransference($task, $userTo);
+    }
+}</code></pre>
+<p>Com isso, nosso interactor seria responsável por fazer a transferência da task e disparar exceptions em caso de erros. Nosso Controller ficaria muito mais limpo, assim:</p>
+<pre><code class="language-php">&lt;?php
+
+use Acme\Interactors\Tasks\TransferenceInteractor;
+use Acme\Interactors\Exceptions\CannotTransferTaskException;
+
+class TasksController extends Controller
+{
+    /**
+     * @var Acme\Interactors\Tasks\TransferenceInteractor
+     */
+    protected $tasksDelivery;
+
+    /**
+     * @param TransferenceInteractor $tasksDelivery
+     */
+    public function __construct(TransceferenceInteractor $tasksDelivery)
+    {
+        $this-&gt;tasksDelivery = $tasksDelivery;
+    }
+
+    /**
+     * @param string|int $task_id
+     * @param string|int $user_id
+     * @return mixed
+     */
+    public function transfer($task_id, $user_id)
+    {
+        try {
+            $this-&gt;tasksDelivery-&gt;transfer($task_id, $user_id);
+
+            return Redirect::to('tasks')-&gt;with(['message' =&gt; Lang::get('tasks.transfer.success')]);
+        } catch(CannotTransferTaskException $e) {
+            return Redirect::to('tasks')-&gt;withErrors($e-&gt;getErrorMessages());
+        }
+    }
+}</code></pre>
+<p>Pronto! Agora, nosso controller não sabe mais como fazemos as transferências das tasks. Apenas sabem QUEM faz e os possíveis erros retornados. Assim. Esse approach é muito mais elegante e limpo. Assim como muito mais fácil de testar e adicionar features e error handlers. Digamos que você tenha um watcher analisando as tasks em background para balancear as tasks com os desenvolvedores mais &quot;folgados&quot;. Seria feito um cli-command para isso, assim:</p>
+<pre><code class="language-php">&lt;?php
+
+use Symfony\Component\Console\Input\InputArgument;
+use Acme\Interactors\Tasks\TransferenceInteractor;
+use Acme\Interactors\Exceptions\CannotTransferTaskException;
+
+class TaskTransferenceCommand extends Command
+{
+    /**
+     * @var Acme\Interactors\Tasks\TransferenceInteractor
+     */
+    protected $tasksDelivery;
+
+    /**
+     * @var string
+     */
+    protected $name = "acme:transfer-task";
+
+    /**
+     * @var string
+     */
+    protected $description = "Transfers a task to a given user";
+
+    /**
+     * @param TransferenceInteractor $tasksDelivery
+     */
+    public function __construct(TransceferenceInteractor $tasksDelivery)
+    {
+        parent::__construct();
+
+        $this-&gt;tasksDelivery = $tasksDelivery;
+    }
+
+    /**
+     * handles the command
+     *
+     * @return void
+     */
+    public function fire()
+    {
+        try {
+            $task_id = $this-&gt;argument('task_id');
+            $user_id = $this-&gt;argument('user_id');
+
+            $this-&gt;taskDelivery-&gt;transfer($task_id, $user_id);
+
+            $this-&gt;info(Lang::get('tasks.transfer.success'));
+        } catch(CannotTransferTaskException $e) {
+            foreach ($e-&gt;getErrorMessages() as $message)
+            {
+                $this-&gt;error($message);
+            }
+        }
+    }
+
+    /**
+     * @return array
+     */
+    public function getArguments()
+    {
+        return [
+            ['task_id', InputArgument::REQUIRED, 'The ID of the task to be transfered'],
+            ['user_id', InputArgument::REQUIRED, 'The id of the user to transfer the task to']
+        ];
+    }
+
+    /**
+     * @return array
+     */
+    public function getOptions()
+    {
+        return [];
+    }
+
+}</code></pre>
+<p>O exemplo do command não foi dos melhores, mas espero que dê pra entender onde quero chegar com isso.</p>
+<p>É isso! O que vocês acham desse padrão? Como vocês organizam suas aplicações? Deixem um comentário ai e até a próxima!</p>    </div>
+
+    <nav class="flex justify-between text-sm md:text-base">
+        <div>
+                            <a href="https://tonysm.github.io/blog/2013-05-16-concatenando-campos-de-models-relacionados-cakephp" title="Older Post: Concatenando campos de Models Relacionados - CakePHP">
+                    &LeftArrow; Concatenando campos de Models Relacionados - CakePHP
+                </a>
+                    </div>
+
+        <div>
+                            <a href="https://tonysm.github.io/blog/2014-03-06-desenvolvendo-uma-api-parte-1" title="Newer Post: Desenvolvendo uma API - parte 1">
+                    Desenvolvendo uma API - parte 1 &RightArrow;
+                </a>
+                    </div>
+    </nav>
+        </main>
+
+        <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
+            <ul class="flex flex-col md:flex-row justify-center list-reset">
+                <li>
+                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
+                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
+                </li>
+            </ul>
+        </footer>
+
+        <script src="/assets/build/js/main.js?id=b9d0096da426f310158a"></script>
+
+        <script>
+    const navMenu = {
+        toggle() {
+            const menu = document.getElementById('js-nav-menu');
+            menu.classList.toggle('hidden');
+            menu.classList.toggle('lg:block');
+            document.getElementById('js-nav-menu-hide').classList.toggle('hidden');
+            document.getElementById('js-nav-menu-show').classList.toggle('hidden');
+        },
+    }
+</script>
+    </body>
+</html>
