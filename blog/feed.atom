@@ -1,0 +1,1463 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tony Messias</title>
+    <link href="https://tonysm.github.io" />
+    <link type="application/atom+xml" rel="self" href="https://tonysm.github.io/blog/feed.atom" />
+    <updated>2019-01-04T22:34:23-02:00</updated>
+    <id>https://tonysm.github.io/blog/feed.atom</id>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+                <entry>
+    <id>https://tonysm.github.io/blog/2019-01-04-goals-for-2019</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2019-01-04-goals-for-2019" />
+    <title>Goals for 2019</title>
+    <published>2019-12-03T22:00:00-02:00</published>
+    <updated>2019-12-03T22:00:00-02:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">I don&#039;t usually set goals for new years and such. However, I&#039;ve decided to change things a little bit this year so, you know, what the hack.
+By publicly sharing my goals, I hope it actually motivates me to really try to do the things I want to do. So,......</summary>
+    <content type="html"><![CDATA[
+        <p>I don't usually set goals for new years and such. However, I've decided to change things a little bit this year so, you know, what the hack.</p>
+<p>By publicly sharing my goals, I hope it actually motivates me to really try to do the things I want to do. So, here we go.</p>
+<h2>Community</h2>
+<p>This year, I want to blog a lot more than last year. I think I've only blogged about my experiment <a href="https://madewithlove.be/kubernetes-101-the-basics/">learning Kubernetes</a> last year, so I want to be more active around here.</p>
+<p>Also, did a <a href="https://www.youtube.com/watch?v=GtphrhnFwZQ">video tutorial</a> experiment of setting up the <a href="https://docs.beyondco.de/laravel-websockets/">Laravel WebSockets</a>, I'm thinking of sharing more stuff on YouTube this year. Maybe the summary of experiments I do every now and then. Someone asked me to talk a bit more about <a href="https://www.youtube.com/watch?v=cJ6EwMLbt3k&amp;t=14s">Queue in Laravel</a> in a teasing for a talk a gave few years ago, so I'll start with that. Will use this as an opportunity to improve my English speaking skills.</p>
+<p>I co-organize a local meetup in my town called <a href="https://www.meetup.com/pt-BR/maceio-dev-meetup/">Maceio DEV Meetup</a>, we try to run a meetup every month, but at the end of last year it kinda went South and we were not that consistent. That's going to change. Going to try to be more active there, and more organized as well. Planning a few months ahead.</p>
+<p>Ah, was almost forgetting, I also want to create more content in PT-BR, for non-English speakers from Brazil, as understanding a second language is a privilege over here. Just want to be more active.</p>
+<h2>Technical</h2>
+<p>I've been working with Web Development ever since I joined the field, and still do that by this day. Been using PHP primarily since my first internship (used <a href="https://cakephp.org/">CakePHP</a>, then switched job and ended up dealing with a custom in-house framework, was about to switch to Ruby when I discovered the <a href="https://laravel.com/">Laravel Framework</a> back in 2013-ish, more on that on a later article).</p>
+<p>I have a BS degree in System Analysis, but the graduation was more of a mix of programming, software engineering, and business. I'm afraid I lack a bit on some of the fundamentals of CS. I've been trying to fill that gap. This year, I want to get better at Algorithms and puzzle solving. Already reading some books to help with that, so will share some articles here about that as well. The books I got are:</p>
+<ul>
+<li><a href="https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230">Grokking-Algorithms: An illustrated guide for programmers and other curious people</a>;</li>
+<li><a href="https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&amp;psc=1&amp;refRID=3DXBTM3RWJR4Q02JPXW6">Computer Science Distilled: Learn the Art of Solving Computational Problems</a> (planned); and</li>
+<li><a href="https://bigmachine.io/products/the-imposters-handbook/">The Imposter's Handbook</a> (also planned).</li>
+</ul>
+<p>Also, I try to experiment with other languages and environments every now and then. 2 years ago I did one experiment of building the same app in <a href="https://github.com/tonysm/slackish-laravel">PHP with Laravel</a> and in <a href="https://github.com/tonysm/slackish_phoenix">Elixir with Phoenix</a>, the app was a simplified version of a chat app called Slackish. Will also write about the experiment and how I approach new languages and frameworks. I loved the experience, so this year I'm going to try to learn some Go by building Slackish with it using the <a href="https://gobuffalo.io/en">Bufallo</a> framework, will share the outcome as well.</p>
+<h2>Personal</h2>
+<p>I don't read much non-technical stuff in my free time. Want to change that. I've got some books about Personal Financing, Politics, and other goodies. So I'm trying to read more this year.</p>
+<p>Exercising is something I really enjoy, but haven't been consistent with it recently. I'm already changing that, been doing workouts about 3 times a week for about 2 months. However, that's something I can still improve, maybe bumping it up to 4 or 5 times a week. The workout consists of body-weight exercises I learned thru the years and running.</p>
+<p>On that note, we started the year by doing a clean up in our eating habits at home, we picked <a href="https://whole30.com/">The Whole30 Program</a>, so let's see how that goes.</p>
+<p>I live in a beach town (just google for images about &quot;Maceio Brazil&quot;, I actually live a few meters from the beach), but the truth is we don't usually go there. That's changing as well. We want to just enjoy the beach more on weekends, at least once a month (feels little, right? But consider that we don't really go at all).</p>
+<hr />
+<p>As you can see, if everything goes as I'm planning, you can expect some good contents around here.</p>
+<p>Happy new year. See you around.</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2015-01-02-laravel-5-command-oriented-approach</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2015-01-02-laravel-5-command-oriented-approach" />
+    <title>Laravel 5 Command-Oriented Approach</title>
+    <published>2015-01-01T22:00:00-02:00</published>
+    <updated>2015-01-01T22:00:00-02:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">A lot of shiny things around the Laravel world that I would like to talk, so I chose the new CommandBus that Laravel 5 brings by default. To start I&#039;d like to say that it&#039;s pretty damn cool.
+
+I&#039;m not gonna explain in details this approach, but I&#039;m going......</summary>
+    <content type="html"><![CDATA[
+        <p>A lot of shiny things around the Laravel world that I would like to talk, so I chose the new CommandBus that Laravel 5 brings by default. To start I'd like to say that it's pretty damn cool.</p>
+<h2>Command-Oriented Architecture</h2>
+<p>I'm not gonna explain in details this approach, but I'm going to give a brief introduction on the topic and link a few more content at the bottom.</p>
+<p>Basically, we should describe our application into commands to make our intentions explicit. Let's say you have a subscription system on your app, you'd have a &quot;SubscribeUserCommand&quot; class, or something similar, that maps to its own handler, in this case &quot;SubscribeUserCommandHandler&quot;. Doing so you actually decouple your application from the transport layer (HTTP, cli, queue job, event handler, etc..). It means that you can <em>dispatch</em> this command from a
+controller or a console command (cli) with no trouble.</p>
+<h2>Laravel way</h2>
+<p>We used to implement this approach using some packages (see <a href="https://github.com/laracasts/Commander">laracasts/commander</a>) which is actually pretty neat and works like a charm. However, Laravel 5 brings it's own CommandBus with a plus: it can handle commands (AND EVENTS!!!) in background (queues).</p>
+<p>A typical command looks like this:</p>
+<pre><code class="language-php">// app/Commands/SubscribeUserCommand.php
+&lt;?php 
+
+namespace App\Commands;
+
+use App\Subscriptions\MembershipType;
+
+class SubscribeUserCommand extends Command
+{
+    public $userId;
+    public $membershipType;
+
+    public function __construct($userId, MembershipType $membershipType)
+    {
+        $this-&gt;userId = $userId;
+        $this-&gt;membershipType = $membershipType;
+    }
+}</code></pre>
+<p>Then you should have a handler like this:</p>
+<pre><code class="language-php">// app/Handlers/Commands/SubscribeUserCommandHandler.php
+&lt;?php 
+
+namespace App\Handlers\Commands;
+
+use App\Commands\SubscribeUserCommand;
+use Illuminate\Contracts\Events\Dispatcher;
+use App\Payment\PaymentInterface;
+
+class SubscribeUserCommandHandler
+{
+    private $userRepository;
+    private $events;
+    private $payment;
+
+    public function __construct(UserRepository $userRepository, Dispatcher $events, PaymentInterface $payment)
+    {
+        $this-&gt;userRepository = $userRepository;
+        $this-&gt;events = $events;
+        $this-&gt;payment = $payment;
+    }
+
+    public function handle(SubscribeUserCommand $command)
+    {
+        $user = $this-&gt;userRepository-&gt;find($command-&gt;userId);
+
+        $user-&gt;subscribe($command-&gt;membershipType, $this-&gt;payment);
+
+        $this-&gt;dispatchEvents($user-&gt;releaseEvents());
+    }
+
+    /**
+     * @param array $events
+     * @return void
+     */
+    private function dispatchEvents(array $events)
+    {
+        foreach ($events as $event)
+            $this-&gt;events-&gt;fire($event);
+    }
+}</code></pre>
+<p>Which you can dispatch, let's say, from your controller like so:</p>
+<pre><code class="language-php">// app/Http/Controllers/SubscriptionsController.php
+&lt;?php 
+
+namespace App\Http\Controllers;
+
+use Illuminate\Contracts\Auth\Guard;
+use App\Commands\SubscribeUserCommand;
+
+class SubscriptionControllers extends Controller
+{
+    private $auth;
+
+    public function __construct(Guard $auth)
+    {
+        $this-&gt;middleware('auth');
+        $this-&gt;auth = $auth;
+    }
+
+    public function subscribe(SubscribeUserRequest $request)
+    {
+        $command = new SubscribeUserCommand(
+            $this-&gt;auth-&gt;user()-&gt;id,
+            MembershipType::build($request-&gt;get("membership_type"))
+        );
+
+        $this-&gt;dispatch($command);
+
+        return redirect()-&gt;route("home");
+    }
+}
+</code></pre>
+<p>The <em>dispatch</em> method is inherited from the Controller class (which uses the <code>Illuminate\Foundation\Bus\DispatchesCommands</code>) and it maps commands to handlers. Cool stuff. This example works synchronously. If you need to handle the command in background (queue jobs) you just have to implement the <code>Illuminate\Contracts\Queue\ShouldBeQueued</code> interface on your command, like so:</p>
+<pre><code class="language-php">// app/Commands/SubscribeUserCommand.php
+&lt;?php 
+
+namespace App\Commands;
+
+use App\Subscriptions\MembershipType;
+use Illuminate\Contracts\Queue\ShouldBeQueued;
+
+class SubscribeUserCommand extends Command implements ShouldBeQueued
+{
+    public $userId;
+    public $membershipType;
+
+    public function __construct($userId, MembershipType $membershipType)
+    {
+        $this-&gt;userId = $userId;
+        $this-&gt;membershipType = $membershipType;
+    }
+}</code></pre>
+<p>That is it! Well, actually you have to setup the queue config on <code>config/queue.php</code>, but I'm making a point here.</p>
+<h2>Handling Events in background</h2>
+<p>As I said, it is also possible to handle events in background, let's see an example. Let's assume your User you have a <em>subscribe</em> named constructor on your model that builds the user instance and saves it (Eloquent/ActiveRecord). Your model should look like:</p>
+<pre><code class="language-php">// app/User.php
+&lt;?php 
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+use App\Events\UserSubscribedEvent;
+use App\Subscriptions\MembershipType;
+use App\Payment\PaymentInterface;
+
+class User extends Model
+{
+    // ...
+    public function subscribe(MembershipType $membershipType, PaymentInterface $payment)
+    {
+        $payment-&gt;purchaseSubscription($this, $membershipType);
+
+        $this-&gt;subscription()-&gt;create($membershipType-&gt;toArray());
+
+        $this-&gt;raise( new UserSubscribedEvent($this-&gt;id, $membershipType) );
+
+        return $this;
+    }
+    // ...
+}</code></pre>
+<p>Your event class is just a DTO and looks like this:</p>
+<pre><code class="language-php">// app/Events/UserSubscribedEvent.php
+&lt;?php 
+
+namespace App\Events;
+
+use Illuminate\Queue\SerializesModels;
+use App\Subscriptions\MembershipType;
+
+class UserSubscribedEvent extends Event
+{
+    use SerializesModels;
+
+    public $userId;
+    public $membershipType;
+
+    public function __construct($userId, MembershipType $membershipType)
+    {
+        $this-&gt;userId = $userId;
+        $this-&gt;membershipType = $membershipType;
+    }
+}</code></pre>
+<p>Then you have a handler like so:</p>
+<pre><code class="language-php">// app/Handlers/Events/UserSubscribedEventHandler;
+&lt;?php 
+
+namespace App\Handlers\Events;
+
+use App\Events\UserSubscribedEvent;
+use App\Mailers\UserMailer;
+
+class UserSubscribedEventHandler
+{
+    public function __construct(UserMailer $mailer, UserRepository $userRepository)
+    {
+        $this-&gt;mailer = $mailer;
+        $this-&gt;userRepository = $userRepository;
+    }
+
+    public function handle(UserSubscribedEvent $event)
+    {
+        $user = $this-&gt;userRepository-&gt;find($event-&gt;userId);
+        $this-&gt;mailer-&gt;sendTo($user, $this-&gt;buildMessage($event-&gt;membershipType));
+    }
+
+    // ... the buildMessage should be private or protected
+}</code></pre>
+<p>To register your handler just go to <code>app/Providers/EventServiceProvider.php</code> and add your listener to the <code>$listen</code> property, like so:</p>
+<pre><code class="language-php">&lt;?php 
+
+namespace App\Providers;
+
+use Illuminate\Foundation\Support\Providers\EventServiceProvider as ServiceProvider;
+
+class EventServiceProvider extends ServiceProvider {
+
+    /**
+     * The event handler mappings for the application.
+     *
+     * @var array
+     */
+    protected $listen = [
+        \App\Events\UserSubscribedEvent::class =&gt; [ 
+            \App\Handlers\Events\UserSubscribedEventHandler::class
+        ]
+    ];
+
+}
+</code></pre>
+<p>This action is executed synchronously, it means that your user is waiting for the event handler to act before being redirected to the application.</p>
+<p>To handle the event in background you just have to implement the same <code>Illuminate\Contracts\Queue\ShouldBeQueued</code> interface on your event handler class, like so:</p>
+<pre><code class="language-php">// app/Handlers/Events/UserSubscribedEventHandler;
+&lt;?php 
+
+namespace App\Handlers\Events;
+
+use App\Events\UserSubscribedEvent;
+use App\Mailers\UserMailer;
+use Illuminate\Contracts\Queue\ShouldBeQueued;
+
+class UserSubscribedEventHandler implements ShouldBeQueued
+{
+    public function __construct(UserMailer $mailer, UserRepository $userRepository)
+    {
+        $this-&gt;mailer = $mailer;
+        $this-&gt;userRepository = $userRepository;
+    }
+
+    public function handle(UserSubscribedEvent $event)
+    {
+        $user = $this-&gt;userRepository-&gt;find($event-&gt;userId);
+        $this-&gt;mailer-&gt;sendTo($user, $this-&gt;buildMessage($event-&gt;membershipType));
+    }
+
+    // ... the buildMessage should be private or protected
+}</code></pre>
+<p>Oh, by the way, you just give the event class to the event dispatcher, like so (using the Facade):</p>
+<pre><code class="language-php">&lt;?php
+
+// somewhere in your application
+use App\Events\UserSubscribedEvent;
+
+Event::fire(new UserSubscribedEvent($userId, $membershipType));</code></pre>
+<h2>Conclusion</h2>
+<p>That is it. To sum up, I like to think that Commands can change state, while Events just react to these state changes and if an Event handler has to change anything it MUST do it through Commands.</p>
+<p>This command bus looks pretty cool. Fun fact: you can have multiple event listeners/handlers where some of them executes synchronously and others execute asynchronously. I loved it, to make it work before we had to have an event listener that add a job to the queue and then handle the event on the job handler. Now it's pretty damn simple.</p>
+<h2>Useful resources</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=fbSYZFZCFS0">DevDiscussions - The Command Bus</a></li>
+<li><a href="https://laracasts.com/lessons/laravel-5-commands">Laracast about the Laravel 5 Command bus</a></li>
+<li><a href="https://laracasts.com/series/commands-and-domain-events">Laracast series about Commands and Domain Events</a></li>
+<li><a href="https://cqrs.wordpress.com/documents/task-based-ui/">Task-based UI</a></li>
+<li><a href="http://shawnmc.cool/command-bus">Command Bus by Shawn McCool</a></li>
+<li><a href="http://verraes.net/2013/04/crud-is-an-anti-pattern/">CRUD is an antipattern</a></li>
+</ul>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2015-01-02-integrating-elasticsearch-with-your-laravel-app</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2015-01-02-integrating-elasticsearch-with-your-laravel-app" />
+    <title>Integrating Elasticsearch with Your Laravel app</title>
+    <published>2015-01-01T22:00:00-02:00</published>
+    <updated>2015-01-01T22:00:00-02:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">Searching is an important part of many applications, and it is most of the time treated as a simple task. &amp;quot;Just query using LIKE and you&#039;re good to go&amp;quot;. Well, while the LIKE clause can be handy sometimes we have to do it in a better way. After......</summary>
+    <content type="html"><![CDATA[
+        <p>Searching is an important part of many applications, and it is most of the time treated as a simple task. &quot;Just query using LIKE and you're good to go&quot;. Well, while the LIKE clause can be handy sometimes we have to do it in a better way. After researching for a while I found a few good resources on the subject. The most attractive one is Elasticsearch. Yes, you can go far with full-text search and other searching techniques, however Elasticsearch is very handy and comes with a variety of
+useful functionalities. I'm going to cover the basics here and link more resources at the bottom, so you can dig further.</p>
+<h2>What is Elasticsearch?</h2>
+<p>From the <a href="http://www.elasticsearch.org/overview/">website</a>:</p>
+<blockquote>
+<p>Elasticsearch is a flexible and powerful open source, distributed, real-time search and analytics engine. Architected from the ground up for use in distributed environments where reliability and scalability are must haves, Elasticsearch gives you the ability to move easily beyond simple full-text search. Through its robust set of APIs and query DSLs, plus clients for the most popular programming languages, Elasticsearch delivers on the near limitless promises of search technology.</p>
+</blockquote>
+<p>In other words: you can use Elasticsearch for logging (see the <a href="http://www.elasticsearch.org/webinars/introduction-elk-stack/">ELK stack</a>) and for searching. This article aims to explain the usage for searching, maybe I'll cover the logging and analytics in another article.</p>
+<h2>Basics about Elasticsearch (with a SQL comparison)</h2>
+<p>So, in SQL we have a database with tables, which is like the structure of the data, and rows, which are the data itself (basically the values for the table structure). Translating this knowledge to Elasticsearch we have: indexes (like the database itself or schemas in some DBMS) and inside the indexes, we have types (like a database table) and we also have documents (like the database rows), which is the data itself.</p>
+<p>Elasticsearch is schema free. However, it is not schema-less, 'cause in order to have better query results, we have to use schemas to make the searches relevant.</p>
+<h2>Integration with Laravel</h2>
+<p>Well, the concepts shown here I took from a Laracon Talk linked at the bottom. It is using Laravel, but the concepts apply to any language/framework because Elasticsearch works as a RESTful API, it means that you consume it using HTTP requests. Don't worry, Elasticsearch is pretty fast and easily scalable.</p>
+<p>First thing to know is that you have to have DATA to use elasticsearch, so in my example I have a seed command that populates the database and, while it does that, it indexes all of the data on Elasticsearch. I'll show it in a while, first let's see how we can integrate it with our Eloquent usage.</p>
+<p>The way I'll show you is by using <a href="http://laravel.com/docs/4.2/eloquent#model-observers">Model Observers</a>, so you have a refular Eloquent Model, let's say <code>Article</code>. Then you have a Observer like so:</p>
+<pre><code class="language-php">// app/Observers/ElasticsearchArticleObserver.php
+&lt;?php 
+
+namespace App\Observers;
+
+use App\Article;
+use Elasticsearch\Client;
+
+class ElasticsearchArticleObserver
+{
+    private $elasticsearch;
+
+    public function __construct(Client $elasticsearch)
+    {
+        $this-&gt;elasticsearch = $elasticsearch;
+    }
+
+    public function created(Article $article)
+    {
+        $this-&gt;elasticsearch-&gt;index([
+            'index' =&gt; 'acme',
+            'type' =&gt; 'articles',
+            'id' =&gt; $article-&gt;id,
+            'body' =&gt; $article-&gt;toArray()
+        ]);
+    }
+
+    public function updated(Article $article)
+    {
+        $this-&gt;elasticsearch-&gt;index([
+            'index' =&gt; 'acme',
+            'type' =&gt; 'articles',
+            'id' =&gt; $article-&gt;id,
+            'body' =&gt; $article-&gt;toArray()
+        ]);
+    }
+
+    public function deleted(Article $article)
+    {
+        $this-&gt;elasticsearch-&gt;delete([
+            'index' =&gt; 'acme',
+            'type' =&gt; 'articles',
+            'id' =&gt; $article-&gt;id
+        ]);
+    }
+}</code></pre>
+<p>We can register our Observer using a ServiceProvider, like so:</p>
+<pre><code class="language-php">&lt;?php
+
+namespace App\Providers;
+
+use App\Observers\ElasticsearchArticleObserver;
+use App\Article;
+use Elasticsearch\Client;
+use Illuminate\Support\ServiceProvider;
+
+class ObserversServiceProvider extends ServiceProvider
+{
+    public function boot()
+    {
+        Article::observe($this-&gt;app-&gt;make(ElasticsearchArticleObserver::class));
+    }
+
+    public function register()
+    {
+        $this-&gt;app-&gt;bindShared(ElasticsearchArticleObserver::class, function()
+        {
+            return new ElasticsearchArticleObserver(new Client());
+        });
+    }
+}</code></pre>
+<p>Remember to register the Service Provider on your <code>config/app.php</code> file.</p>
+<p>Now, whenever we create, update or delete an entity using our Eloquent Article Model, we trigger the Elasticsearch Observer to update its data.
+Worth noting that this happens synchronously during the Request. A better way is to use Domain Events and have a Elasticsearch handler that updates it in background to speed up the user request.</p>
+<h2>Searching with Repositories</h2>
+<p>Now that you have your elasticsearch fed with your application data, you can perform a better search experience. Let's assume you already have a repository that makes the search using LIKE clause or some full-text search functions. Well, you can still have that as a backup in case your elasticsearch servers crash, in order to do so, you just <em>decorate</em> your Repository. Let's see how we could do that, first you need to extract an interface of your repository, in case you don't already have
+one:</p>
+<pre><code class="language-php">// app/Articles/ArticlesRepository.php
+&lt;?php 
+
+namespace App\Articles;
+
+use Illuminate\Support\Collection;
+
+interface ArticlesRepository
+{
+    /**
+     * @param string $query = ""
+     * @return Collection
+     */
+    public function search($query = "");
+
+    /**
+     * @return Collection
+     */
+    public function all();
+}</code></pre>
+<p>Then your Eloquent repository should implement it like so:</p>
+<pre><code class="language-php">// app/Articles/EloquentArticlesRepository.php
+&lt;?php 
+
+namespace App\Articles;
+
+use App\Article;
+
+class EloquentArticlesRepository implements ArticlesRepository
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function search($query = "")
+    {
+        return Article::where('body', 'like', "%{$query}%")
+            -&gt;orWhere('title', 'like', "%{$query}%")
+            -&gt;get();
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function all()
+    {
+        return Article::all();
+    }
+}</code></pre>
+<p>Now, you can write the ElasticseachArticleRepository as a decorator, like so:</p>
+<pre><code class="language-php">// app/Articles/ElasticsearchArticlesRepository
+&lt;?php 
+
+namespace App\Articles;
+
+use Illuminate\Support\Collection;
+use App\Article;
+use Elasticsearch\Client;
+
+class ElasticsearchArticlesRepository implements ArticlesRepository
+{
+    private $elasticsearch;
+    private $innerRepository;
+
+    public function __construct(Client $client, ArticlesRepository $innerRepository)
+    {
+        $this-&gt;elasticsearch = $client;
+        $this-&gt;innerRepository = $innerRepository;
+    }
+
+    /**
+     * @param string $query = ""
+     * @return Collection
+     */
+    public function search($query = "")
+    {
+        $items = $this-&gt;searchOnElasticsearch($query);
+
+        return $this-&gt;buildCollection($items);
+    }
+
+    /**
+     * @return Collection
+     */
+    public function all()
+    {
+        return $this-&gt;innerRepository-&gt;all();
+    }
+
+    /**
+     * @param string $query
+     * @result array
+     */
+    private function searchOnElasticsearch($query)
+    {
+        $items = $this-&gt;elasticsearch-&gt;search([
+            'index' =&gt; 'acme',
+            'type' =&gt; 'articles',
+            'body' =&gt; [
+                'query' =&gt; [
+                    'query_string' =&gt; [
+                        'query' =&gt; $query
+                    ]
+                ]
+            ]
+        ]);
+
+        return $items;
+    }
+
+    /**
+     * @param array $items the elasticsearch result
+     * @return Collection of Eloquent models
+     */
+    private function buildCollection($items)
+    {
+        $result = $items['hits']['hits'];
+
+        return Collection::make(array_map(function($r) {
+            $article = new Article();
+            $article-&gt;newInstance($r['_source'], true);
+            $article-&gt;setRawAttributes($r['_source'], true);
+            return $article;
+        }, $result));
+    }
+}</code></pre>
+<p>Now, the trick is to decorate your repository on your Service Provider, like so:</p>
+<pre><code class="language-php">// app/Providers/RepositoriesServiceProvider.php
+&lt;?php 
+
+namespace App\Providers;
+
+use App\Articles\ElasticsearchArticlesRepository;
+use App\Articles\EloquentArticlesRepository;
+use App\Articles\ArticlesRepository;
+use Elasticsearch\Client;
+use Illuminate\Support\ServiceProvider;
+
+class RepositoriesServiceProvider extends ServiceProvider
+{
+    /**
+     * {@inheritdoc}
+     */
+    public function register()
+    {
+        $this-&gt;app-&gt;bindShared(ArticlesRepository::class, function($app)
+        {
+            return new ElasticsearchArticlesRepository(
+                new Client,
+                new EloquentArticlesRepository()
+            );
+        });
+    }
+}</code></pre>
+<p>Now, everywhere you depend on ArticlesRepository interface, you will actually have a ElasticsearchArticlesRepository.</p>
+<h2>Conclusion</h2>
+<p>The post is getting too long, so maybe I will do another one about quering and filtering on Elasticsearch. Worth saying that every example class here is easily testable, just mock the Elasticsearch\Client and you are good to go. To finish up, here is the seeder, so after setting up as above, just run the <code>php artisan db:seed</code> command to populate your database and elasticsearch:</p>
+<pre><code class="language-php">// database/seeds/ArticlesTableSeeder.php
+&lt;?php
+
+class ArticlesTableSeeder extends Seeder
+{
+    public function run()
+    {
+        Laracasts\TestDummy\Factory::times(50)-&gt;create('App\Article');
+    }
+} </code></pre>
+<p>I'm using TestDummy here, so you better check the package to have an understanding of what is going on here. It is also easy to do a cli command to reindex your elasticsearch, like so:</p>
+<pre><code class="language-php">// app/Console/IndexArticlesToElasticsearchCommand.php
+&lt;?php namespace App\Console;
+
+use App\Article;
+use Elasticsearch\Client;
+
+class IndexArticlesToElasticsearchCommand
+{
+    /**
+     * {@inheritdoc}
+     */
+    protected $name = "app:es-index";
+
+    /**
+     * {@inheritdoc}
+     */
+    protected $description = "Indexes all articles to elasticsearch";
+
+    /**
+     * @return void
+     */
+    public function fire()
+    {
+        $models = Article::all();
+        $es = new Client;
+
+        foreach ($models as $model)
+        {
+            $es-&gt;index([
+                'index' =&gt; 'acme',
+                'type' =&gt; 'articles',
+                'id' =&gt; $model-&gt;id,
+                'body' =&gt; $model-&gt;toArray()
+            ]);
+        }
+    }
+}</code></pre>
+<p>After registering your command, you can run <code>php artisan app:es-index</code> to index existing articles to Elasticsearch.</p>
+<h2>Useful Resources</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=waTWeJeFp4A">LaraconEU talk about Elasticsearch by Ben Corlett</a></li>
+<li><a href="https://www.youtube.com/watch?v=7FLXjgB0PQI">Getting Down and Dirty with ElasticSearch by Clinton Gormley</a></li>
+<li><a href="http://laravel.com/docs/4.2/eloquent#model-observers">Laravel Model Observers</a></li>
+<li><a href="https://github.com/tonysm/laravel-elasticsearch-test">My demo project on Github</a></li>
+<li><a href="https://www.youtube.com/watch?v=GrdzX9BNfkg">Introduction and Demo to the Elasticsearch, Logstash and Kibana</a></li>
+</ul>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2014-09-23-command-oriented-architecture</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2014-09-23-command-oriented-architecture" />
+    <title>Command-Oriented Architecture</title>
+    <published>2014-09-22T21:00:00-03:00</published>
+    <updated>2014-09-22T21:00:00-03:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">Alguns meses atrás escrevi um post sobre Commands e Domain Events para o PHP-PB e esqueci de postar aqui também.
+Bom, aqui vai um link: Commands e Domain Events
+Resumindo um pouco o que eu falo no post, esse padrão de arquitetura está em alta nos......</summary>
+    <content type="html"><![CDATA[
+        <p>Alguns meses atrás escrevi um post sobre Commands e Domain Events para o PHP-PB e esqueci de postar aqui também.</p>
+<p>Bom, aqui vai um link: <a href="http://php-pb.net/2014/06/23/commands-e-domain-events/">Commands e Domain Events</a></p>
+<p>Resumindo um pouco o que eu falo no post, esse padrão de arquitetura está em alta nos ultimos tempos:</p>
+<p>Basicamente temos:</p>
+<ul>
+<li>Fronteiras usam Commands (DTO) para usar nosso app</li>
+<li>Commands são executados por um e somente 1 Handlers</li>
+<li>Handlers podem usar Services e/ou Repositories para interagir com os Domain Objects</li>
+<li>Domain Objects geram Domain Events (podendo ser 1 ou mais)</li>
+<li>Handlers disparam os Domain Events dos Domain Objects afetados na ação</li>
+<li>Domain Events podem ser ouvidos por 1 ou vários Event Listeners</li>
+<li>Listeners podem executar Commands (volte ao item 2)</li>
+<li>Handlers devolvem o que está em seus contratos para as Fronteiras</li>
+<li>Fim do request</li>
+</ul>
+<h2>Otimização utilizando Queues</h2>
+<p>Claro, podemos otimizar esse request disparando os Domain Events em Background utilizando Queues, já que os events ocorrem depois das ações
+na nossa aplicação, não faz sentido esperar um envio de e-mail, por exemplo (que deveria estar num listener) para responder a request.</p>
+<h2>Conclusão</h2>
+<p>Bom, pra saber mais sobre o assunto, basta dar uma lida no meu post lá. Dou uma explicação mais detalhada sobre a arquitetura e
+ainda tem várias referências legais. :)</p>
+<p>Até a próxima!</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2014-03-07-desenvolvendo-uma-api-parte-2</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2014-03-07-desenvolvendo-uma-api-parte-2" />
+    <title>Desenvolvendo uma API - Parte 2</title>
+    <published>2014-03-06T21:00:00-03:00</published>
+    <updated>2014-03-06T21:00:00-03:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">Atualmente o modelo de API&#039;s mais utilizado é o REST. Não conhece? Explicarei um pouco aqui do funcionamento desse modelo. A teoria é bem simples, na verdade, mas muitas vezes subestimada.
+Para começo de conversa, vou linkar aqui um video que abriu a......</summary>
+    <content type="html"><![CDATA[
+        <p>Atualmente o modelo de API's mais utilizado é o REST. Não conhece? Explicarei um pouco aqui do funcionamento desse modelo. A teoria é bem simples, na verdade, mas muitas vezes subestimada.</p>
+<p>Para começo de conversa, vou linkar aqui um video que abriu a minha cabeça para o que é REST de verdade. O video se chama &quot;Teach a dog to REST&quot; e é incrível! Esse video caiu como uma luva para mim, pois eu tinha acabado de fazer uma API num antigo trabalho e não tinha o menor conhecimento sobre REST, acabei cometendo vários erros como as URLs mostradas no vídeo. Sem mais delongas, assistam ao <a href="https://vimeo.com/17785736">video</a>.</p>
+<p>Construir uma API é um processo que parece simples no começo, mas, acreditem, é complexo pra caramba! REST é o conceito básico das API hoje em dia, existem outros modelos como o SOAP, mas não vou entrar em detalhes, até porque nunca os usei na prática.</p>
+<p>Uma boa API é um problema de design, como é falado no vídeo. A API que citei acredito que ainda está em uso hoje em dia e alguns erros foram cometidos no processo de desenvolvimento. Não por ser um time ruim, mas porque eramos todos novos no ramo e não conheciamos as melhores práticas e todo o universo por trás das APIs.</p>
+<p>Fizemos URL's feias, como essas:</p>
+<pre>
+/getAllUsersWithTasks
+/getAllFinishedTasks
+/getAllPendingTasksWithUser/{user\_id}
+</pre>
+<p>Qual o recurso negóciado nessas URL's? Não dá pra saber só de olhar a URL, temos que tentar ler a mesma e compreender o que pode vir dela. Ah, e basicamente só utilizavamos dois métodos HTTP para os requests GET e POST.</p>
+<h2>O que é necessário</h2>
+<p>Vou listar aqui o que eu acredito ser necessário para uma boa API REST.</p>
+<ul>
+<li>Utilizar muito bem os vérbos HTTP</li>
+<li>Utilizar apenas recursos nas URLs</li>
+<li>Toda complexidade deve ser tratada fora da URL (depois do ?)</li>
+<li>Linkar muito bem os recursos (Relacionamentos)</li>
+<li>Pense sempre RESTful</li>
+</ul>
+<h2>Utilizando 110% do HTTP</h2>
+<p>Todos os <em>clients</em> que irão utilizar nossas API's REST a farão (até onde sei) via HTTP. HTTP é um protocolo de comunicação que é a base da nossa WEB. Para melhor entendermos REST, precisamos entender o HTTP. Existem cerca de 9 métodos HTTP, conforme a <a href="http://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol#M.C3.A9todos">Wikipédia</a>, mas falaremos basicamente de 6, são eles: GET, POST, PATCH, PUT, DELETE e OPTIONS.</p>
+<p>Abaixo, vamos entender melhor o que são cada um desses métodos:</p>
+<ul>
+<li>GET - solicitar recursos;</li>
+<li>POST - criar recursos;</li>
+<li>PUT - atualizar um recurso por completo;</li>
+<li>PATCH - atualizar parte de um recurso;</li>
+<li>DELETE - excluir um recurso;</li>
+<li>OPTIONS - utilizado por apps front-end para saber quais métodos estão disponíveis na nossa API (ver <a href="http://pt.wikipedia.org/wiki/Cross-origin_resource_sharing">CORs</a>);</li>
+</ul>
+<p>Falaremos mais sobre o CORs depois.</p>
+<h2>Exemplos</h2>
+<p>Um exemplo de request para a nossa API usando GET:</p>
+<pre>
+GET /dogs HTTP1.1
+Host: www.example.com
+</pre>
+<p>Esse exemplo acima poderia ser utilizado caso o usuário precisasse listar todos os cachorros, por exemplo. Não estamos considerando paginação ainda.</p>
+<p>Para criar um novo cachorro na API, utilizaria o método POST:</p>
+<pre>
+POST /dogs HTTP 1.1
+Host: www.example.com
+Payload: {"name": "Luke", "race": "unknown"}
+</pre>
+<p>Você pode ver que a URL é a mesma, porém o método HTTP agora é POST e enviamos para o servidor os dados do novo cachorro via payload.</p>
+<p>Agora, digamos que queremos atualizar o nome do cachorro acima e que o mesmo é representado pelo ID 1, temos então um PATCH:</p>
+<pre>
+PATCH /dogs/1 HTTP 1.1
+Host: www.example.com
+Payload: {"name": "Luke teste"}
+</pre>
+<p>Pronto. Com isso, atualizamos o nome do nosso cachorro. Um detalhe aqui é que utilizamos o método PATCH e não PUT. Por que? Porque o PUT é utilizado quando queremos atualizar todos os atributos de um recurso. É um <em>replace</em>, praticamente.</p>
+<p>Para deletar o cachorro cadastrado, utilizamos o método DELETE:</p>
+<pre>
+DELETE /dogs/1 HTTP 1.1
+Host: www.example.com
+</pre>
+<p>Pronto. Nosso cachorro foi excluído.</p>
+<p>Vejam que não entramos em detalhes sobre o payload ou sobre as respostas, isso será tratado mais para frente, em outro post.</p>
+<h2>Complexidades</h2>
+<p>Mas, claro, nem tudo são flores. Digamos que eu queira listar apenas os cachorros sem raça, como eu faria? Seguindo o padrão (errado) apresentado no começo do artigo, seria algo mais ou menos assim:</p>
+<pre>
+GET /dogsWithUnknownRace HTTP 1.1
+Host: www.example.com
+</pre>
+<p>Certo. Já vimos que isso é errado, então, não façam assim. Mas de que outra forma podemos passar complexidades para nossas URL's? Resposta: Não passe. Mantenha a complexidade fora da URL. Como? Assim:</p>
+<pre>
+GET /dogs?race=unknown HTTP 1.1
+Host: www.example.com
+</pre>
+<p>Dessa forma, sabemos exatamente que estamos listando cachorros apenas com raça desconhecida. Assim, mantemos a complexidade fora da URL, e essa fica apenas com o nosso recurso principal. Vamos para mais um exemplo: Digamos que você agora quer listar todos os cachorros de raça desconhecida da cor preta.</p>
+<pre>
+GET /dogs?race=unknown&amp;color=black HTTP 1.1
+Host: www.example.com
+</pre>
+<p>Bom, espero que tenham entendido onde quero chegar.</p>
+<h2>Relacionamentos</h2>
+<p>Digamos que os usuários da nossa API são os donos dos cachorros. Para saber qual o dono do cachorro de ID 1, por exemplo, temos o seguinte request:</p>
+<pre>
+GET /dogs/1/owners HTTP 1.1
+Host: www.example.com
+</pre>
+<p>Agora, digamos que o dono do cachorro de ID 1, tenha outros 2 cachorros e seu ID na API é 42, para saber quais os cachorros que esse usuário tem, podemos fazer assim:</p>
+<pre>
+GET /owners/42/dogs HTTP 1.1
+Host: www.example.com
+</pre>
+<p>Como exemplificado acima, podemos ter mais de uma forma para acessar um recurso. Fica a cargo do time escolher quais os recursos principais e mais coesos e onde e quando utilizar os recursos de relacionamento.</p>
+<p>Um ponto importante sobre relacionamentos é que o ultimo recurso da URL deve ser o foco da requisição. Ou seja, na url <em>/dogs/42/owners</em> estamos falando dos <em>owners</em> e não dos cachorros. O cachorro só está ai por conta do relacionamento.</p>
+<h2>Concluindo...</h2>
+<p>Bom, é isso. Isso é o básico do REST. Não entrei em detalhes sobre HEADERS e outros detalhes mais que pretendo falar mais pra frente. A ideia principal aqui é ser coeso. Não colocar complexidades nas URLs e essas serem apenas recursos, não verbos. Utilizar ao máximo o que o HTTP tem para nos oferecer e documentar tudo que pudermos.</p>
+<p>Uma boa documentação é uma excelente aliada. Outro ponto importante é sempre usar o plural nos recursos, faz mais sentido (basta ler para perceber) do que usar singulares. Não precisa usar IDs não URLs também. Podemos utilizar qualquer atributo único no lugar do ID, embora eu prefira os IDs.</p>
+<p>É isso, pessoal. Espero ter deixado claro o funcionamento básico do REST. Qualquer dúvida, podem falar.</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2014-03-06-desenvolvendo-uma-api-parte-1</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2014-03-06-desenvolvendo-uma-api-parte-1" />
+    <title>Desenvolvendo uma API - parte 1</title>
+    <published>2014-03-05T21:00:00-03:00</published>
+    <updated>2014-03-05T21:00:00-03:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">Saber desenvolver uma API é muito importante nos dias de hoje. Com o avanço das tecnologias (see Internet of Things) temos cada vez mais a necessidade de fazer softwares que possam se comunicar tanto com o browser (front-end), com mobile clients......</summary>
+    <content type="html"><![CDATA[
+        <p>Saber desenvolver uma API é muito importante nos dias de hoje. Com o avanço das tecnologias (see Internet of Things) temos cada vez mais a necessidade de fazer softwares que possam se comunicar tanto com o browser (front-end), com mobile clients (Android, iOS, Windows, BlackBerry, etc, etc...), quanto com nossas geladeiras. Partindo dessa necessidade de termos uma aplicação sendo utilizada por várias tecnologias diferentes que surgem as populares API's.</p>
+<p>Uma API nada mais é do que, citando a Wikipédia:</p>
+<blockquote>
+<p>No contexto de desenvolvimento web, uma API é um conjunto definido de mensagens de requisição e resposta HTTP, geralmente expressado nos formatos XML ou JSON. Ainda que o termo seja um sinônimo para web service, a chamada Web 2.0 está aos poucos depreciando o modelo de serviços SOAP para a técnica REST. - <a href="http://pt.wikipedia.org/wiki/API">Wikipédia</a></p>
+</blockquote>
+<p>Essa imagem descreve melhor essa explicação:</p>
+<p><img src="/assets/images/posts/api-cloud.png" alt="API cloud" /></p>
+<h2>Tópicos</h2>
+<p>Aqui vamos falar um pouco sobre o desenvolvimento de API's. Vou citar aqui alguns dos tópicos que quero comentar:</p>
+<ul>
+<li>REST</li>
+<li>Padrões de Respostas (JSON, XML...)</li>
+<li>Error Handling e HTTP status codes</li>
+<li>Autenticação (OAuth2, token...)</li>
+<li>Paginação</li>
+<li>Versionamento</li>
+<li>Tarefas em Background (Queue Jobs)</li>
+<li>Push Notifications</li>
+<li>NoSQL (armazenamento mais rápido)</li>
+<li>Filtros e Validações</li>
+<li>Documentação</li>
+</ul>
+<p>É um caminho longo e alguns desses tópicos eu ainda estou estudando, como o NoSQL, por exemplo, mas vamos em frente!</p>
+<p>Vejo vocês no próximo post!</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2014-02-21-controllers-e-mecanismos-de-transporte</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2014-02-21-controllers-e-mecanismos-de-transporte" />
+    <title>Controllers e Mecanismos de transporte</title>
+    <published>2014-02-20T21:00:00-03:00</published>
+    <updated>2014-02-20T21:00:00-03:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">O trabalho de um Controller é pegar informações HTTP e passar para a aplicação (como um mecanismo de transporte), o que faz todo sentido, já que não queremos ter Controllers sabendo demais. Mas, acontece que não é tão simples organizar o......</summary>
+    <content type="html"><![CDATA[
+        <p>O trabalho de um Controller é pegar informações HTTP e passar para a aplicação (como um mecanismo de transporte), o que faz todo sentido, já que não queremos ter Controllers sabendo demais. Mas, acontece que não é tão simples organizar o código, é uma tarefa bastante complicada, na verdade. Comecei a usar o <strong><em>Repository Pattern</em></strong>, mas acabei acomplando meus Controllers a vários repositórios, o que acaba sendo custoso, visto que para cada request, vários repositórios são carregados..</p>
+<p>Mas não acho que seja papel do Controller interagir diretamente com models ou Repositórios, então, isso sempre me incomodou. Até que, assistindo a um vídeo do <a href="http://cleancoders.com">Uncle Bob</a> em que ele mensiona os Interactors, pensei &quot;É isso! Faz todo sentido!&quot;.</p>
+<p>Quem nunca se pegou pensando &quot;como faço para utilizar o método desse controller em outro lugar?&quot;. A resposta é: &quot;Você não deve utilizar seus controllers em outros lugares!&quot;.</p>
+<p>Para quem não viu, aqui vai um resumo.</p>
+<h2>Interactors</h2>
+<p>Com os Interactors, o papel do seu controller é basicamente capturar qualquer informação do protocolo utilizado (HTTP) como, por exemplo, qual o usuário autenticado no sistema, qual o id do <em>resource</em> que foi passado e entregar essas informações como argumentos para os <em>interactors</em>, assim como tratar as <em>exceções</em> disparadas pelos mesmos e converter essas informações para a resposta do <em>client</em> (HTML, JSON ou, quem sabe, (uhh!) XML)... ou melhor, passar essa responsabilidade de conversão das respostas para outra camada de <em>parsers</em>.</p>
+<p>O mais legal disso é que a sua aplicação fica desacoplada do mecanismo de transporte. Isso é, para fazer essa mesma funcionalidade via <strong>cli</strong> (terminal), por exemplo, bastaria chamar o Interactor e supri-lo com os mesmos parâmetros que são passados pelo controller (tratar as exceptions também) e voilà! Temos um <em>cli command</em> que faz o mesmo que o controller, só que usando protocolos diferentes.</p>
+<h2>O que o seu Interactor deve saber</h2>
+<p>Qualquer coisa que não seja relacionada com funções de outras camadas da sua aplicação. Isso é, não devemos persistir dados diretamente do Interactor, por exemplo. Entretanto, podemos utilizar os repositórios da aplicação diretamente nele. Dessa forma, poderiamos ter um <em>Interactor</em> por <em>Use Case</em>, como é sugerido pelo próprio Uncle Bob. Ou seja, um Controller teria conhecimento dos Interactors (ou Use Cases) que ele é responsável. Fez todo sentido para mim quando ouvi falar disso. Mas ainda estou aprendendo a colocar em prática esse padrão. Farei um video de teste desse padrão e atualizarei o <em>post</em> colocando o link aqui.</p>
+<h2>Updated: Show me the code!</h2>
+<p>Enquanto não gravo o vídeo, resolvi compartilhar um pouco de código aqui pra exemplificar melhor. Vamos lá!</p>
+<p>Dado o seguinte caso de uso: Passar uma task para outro usuário em um sistema de gerenciamento de tarefas. Precisamos atualizar a task e notificar o novo usuário que o mesmo tem uma nova task. Normalmente, teriamos um controller assim:</p>
+<pre><code class="language-php">&lt;?php
+
+use Acme\Repositories\TaskRepository;
+use Acme\Repositories\UserRepository;
+use Acme\Mailers\UserMailer;
+
+class TasksController extends Controller
+{
+    /**
+     * @var Acme\Repositories\TaskRepository
+     */
+    protected $tasks;
+
+    /**
+     * @var Acme\Repositories\UserRepository
+     */
+    protected $users;
+
+    /**
+     * @var Acme\Mailers\UserMailer
+     */
+    protected $mailer;
+
+    /**
+     * @param TaskRepository $tasks
+     * @param UserRepository $users
+     * @param UserMailer $mailer
+     */
+    public function __construct(
+        TaskRepository $tasks, 
+        UserRepository $users, 
+        UserMailer $mailer
+    ) {
+        $this-&gt;tasks = $tasks;
+        $this-&gt;users = $users;
+        $this-&gt;mailer = $mailer;
+    }
+
+    /**
+     * @param string|int $task_id
+     * @param string|int $user_id
+     * @return mixed
+     */
+    public function transfer($task_id, $user_id)
+    {
+        $userTo = $this-&gt;users-&gt;find($user_id);
+        $task = $this-&gt;tasks-&gt;find($task_id);
+
+        $task-&gt;setUser($userTo);
+
+        if (! $this-&gt;tasks-&gt;save($task)) {
+            return Redirect::to('tasks')-&gt;withErrors($this-&gt;tasks-&gt;getErrors());
+        }
+
+        $this-&gt;mailer-&gt;notifyTaskTransference($task, $userTo);
+
+        return Redirect::to('tasks')-&gt;with(['message' =&gt; Lang::get('tasks.transfer.success']);
+    }
+}</code></pre>
+<p>O código até que tá limpo, mas ainda dá pra melhorar.. Nosso Controller, que faz está fora da camada da nossa aplicação (faz parte do front-end, por assim dizer), sabe que temos repositórios, mailers, etc, etc.. Idealmente, nosso Controller deve saber apenas QUEM realiza suas tarefas e os possíveis erros. Uma forma muito mais limpa para tal modelo é utilizando Interactors, como mostrado abaixo:</p>
+<pre><code class="language-php">&lt;?php namespace Acme\Interactors\Tasks;
+
+use Acme\Repositories\TaskRepository;
+use Acme\Repositories\UserRepository;
+use Acme\Mailers\UserMailer;
+use Acme\Interactors\Exceptions\CannotTransferTaskException;
+
+class TransferenceInteractor
+{
+    /**
+     * @var Acme\Repositories\TaskRepository
+     */
+    protected $tasks;
+
+    /**
+     * @var Acme\Repositories\UserRepository
+     */
+    protected $users;
+
+    /**
+     * @var Acme\Mailers\UserMailer
+     */
+    protected $mailer;
+
+    /**
+     * @param TaskRepository $tasks
+     * @param UserRepository $users
+     * @param UserMailer $mailer
+     */
+    public function __construct(
+        TaskRepository $tasks,
+        UserRepository $users,
+        UserMailer $mailer
+    ) {
+        $this-&gt;tasks = $tasks;
+        $this-&gt;users = $users;
+        $this-&gt;mailer = $mailer;
+    }
+
+    /**
+     * @param string|int $task_id
+     * @param string|int $user_id
+     * @return void
+     * @throws CannotTransferTaskException
+     */
+    public function transfer($task_id, $user_id)
+    {
+        $userTo = $this-&gt;users-&gt;find($user_id);
+        $task = $this-&gt;tasks-&gt;find($task_id);
+
+        $task-&gt;setUser($userTo);
+
+        if (! $this-&gt;tasks-&gt;save($task)) {
+            throw new CannotTransferTaskException($this-&gt;tasks-&gt;getErros());
+        }
+
+        $this-&gt;mailer-&gt;notifyTaskTransference($task, $userTo);
+    }
+}</code></pre>
+<p>Com isso, nosso interactor seria responsável por fazer a transferência da task e disparar exceptions em caso de erros. Nosso Controller ficaria muito mais limpo, assim:</p>
+<pre><code class="language-php">&lt;?php
+
+use Acme\Interactors\Tasks\TransferenceInteractor;
+use Acme\Interactors\Exceptions\CannotTransferTaskException;
+
+class TasksController extends Controller
+{
+    /**
+     * @var Acme\Interactors\Tasks\TransferenceInteractor
+     */
+    protected $tasksDelivery;
+
+    /**
+     * @param TransferenceInteractor $tasksDelivery
+     */
+    public function __construct(TransceferenceInteractor $tasksDelivery)
+    {
+        $this-&gt;tasksDelivery = $tasksDelivery;
+    }
+
+    /**
+     * @param string|int $task_id
+     * @param string|int $user_id
+     * @return mixed
+     */
+    public function transfer($task_id, $user_id)
+    {
+        try {
+            $this-&gt;tasksDelivery-&gt;transfer($task_id, $user_id);
+
+            return Redirect::to('tasks')-&gt;with(['message' =&gt; Lang::get('tasks.transfer.success')]);
+        } catch(CannotTransferTaskException $e) {
+            return Redirect::to('tasks')-&gt;withErrors($e-&gt;getErrorMessages());
+        }
+    }
+}</code></pre>
+<p>Pronto! Agora, nosso controller não sabe mais como fazemos as transferências das tasks. Apenas sabem QUEM faz e os possíveis erros retornados. Assim. Esse approach é muito mais elegante e limpo. Assim como muito mais fácil de testar e adicionar features e error handlers. Digamos que você tenha um watcher analisando as tasks em background para balancear as tasks com os desenvolvedores mais &quot;folgados&quot;. Seria feito um cli-command para isso, assim:</p>
+<pre><code class="language-php">&lt;?php
+
+use Symfony\Component\Console\Input\InputArgument;
+use Acme\Interactors\Tasks\TransferenceInteractor;
+use Acme\Interactors\Exceptions\CannotTransferTaskException;
+
+class TaskTransferenceCommand extends Command
+{
+    /**
+     * @var Acme\Interactors\Tasks\TransferenceInteractor
+     */
+    protected $tasksDelivery;
+
+    /**
+     * @var string
+     */
+    protected $name = "acme:transfer-task";
+
+    /**
+     * @var string
+     */
+    protected $description = "Transfers a task to a given user";
+
+    /**
+     * @param TransferenceInteractor $tasksDelivery
+     */
+    public function __construct(TransceferenceInteractor $tasksDelivery)
+    {
+        parent::__construct();
+
+        $this-&gt;tasksDelivery = $tasksDelivery;
+    }
+
+    /**
+     * handles the command
+     *
+     * @return void
+     */
+    public function fire()
+    {
+        try {
+            $task_id = $this-&gt;argument('task_id');
+            $user_id = $this-&gt;argument('user_id');
+
+            $this-&gt;taskDelivery-&gt;transfer($task_id, $user_id);
+
+            $this-&gt;info(Lang::get('tasks.transfer.success'));
+        } catch(CannotTransferTaskException $e) {
+            foreach ($e-&gt;getErrorMessages() as $message)
+            {
+                $this-&gt;error($message);
+            }
+        }
+    }
+
+    /**
+     * @return array
+     */
+    public function getArguments()
+    {
+        return [
+            ['task_id', InputArgument::REQUIRED, 'The ID of the task to be transfered'],
+            ['user_id', InputArgument::REQUIRED, 'The id of the user to transfer the task to']
+        ];
+    }
+
+    /**
+     * @return array
+     */
+    public function getOptions()
+    {
+        return [];
+    }
+
+}</code></pre>
+<p>O exemplo do command não foi dos melhores, mas espero que dê pra entender onde quero chegar com isso.</p>
+<p>É isso! O que vocês acham desse padrão? Como vocês organizam suas aplicações? Deixem um comentário ai e até a próxima!</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2013-05-16-concatenando-campos-de-models-relacionados-cakephp</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2013-05-16-concatenando-campos-de-models-relacionados-cakephp" />
+    <title>Concatenando campos de Models Relacionados - CakePHP</title>
+    <published>2013-05-15T21:00:00-03:00</published>
+    <updated>2013-05-15T21:00:00-03:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">Olá! Hoje o post vai ser mais rápido. Vou mostrar uma solução para concatenar campos de Modelos associados em um virtualField no CakePHP. Essa dúvida surgiu na lista oficial do CakeTuga e eu resolvi tentar fazer. Após algumas buscas, encontrei uma......</summary>
+    <content type="html"><![CDATA[
+        <p>Olá! Hoje o post vai ser mais rápido. Vou mostrar uma solução para concatenar campos de Modelos associados em um <a href="http://book.cakephp.org/2.0/en/models/virtual-fields.html">virtualField</a> no CakePHP. Essa dúvida surgiu na lista oficial do CakeTuga e eu resolvi tentar fazer. Após algumas buscas, encontrei uma <a href="http://ask.cakephp.org/questions/view/using_associated_tables_with_virtualfield"><em>thread</em></a> onde o cara conseguiu fazer isso. Legal, vamos a minha implementação.</p>
+<h2>Show me the code!</h2>
+<p>Primeiro, vamos definir nossa base de dados com duas tabelas: <em>users</em> e <em>companies</em>, com a seguinte estrutura:</p>
+<pre><code class="language-sql">
+CREATE TABLE IF NOT EXISTS `companies` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
+  PRIMARY KEY (`id`)
+);
+
+CREATE TABLE IF NOT EXISTS `users` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(200) COLLATE utf8_unicode_ci NOT NULL,
+  `company_id` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+);
+
+INSERT INTO `companies` (`id`, `name`) VALUES
+(1, 'company 1'),
+(2, 'company 2');
+
+INSERT INTO `users` (`id`, `name`, `company_id`) VALUES
+(1, 'user 1', 2),
+(2, 'user 2', 1);</code></pre>
+<p>Agora, vamos definir os nosso modelos, começando pelo Model Company:</p>
+<pre><code class="language-php">&lt;?php
+App::uses('AppModel', 'Model');
+
+class Company extends AppModel
+{
+
+    public $displayField = 'name';
+
+    public $hasMany = array(
+        'User' =&gt; array(
+            'className' =&gt; 'User',
+            'foreignKey' =&gt; 'company_id',
+            'dependent' =&gt; false
+        )
+    );
+
+}</code></pre>
+<p>Vamos ser mais diretos, sem códigos desnecessários para o exemplo. O importante aqui é definir os relacionamentos. Agora, vamos para o model User:</p>
+<pre><code class="language-php">&lt;?php
+App::uses('AppModel', 'Model');
+
+class User extends AppModel 
+{
+    public $displayField = 'name';
+
+    public $belongsTo = array(
+        'Company' =&gt; array(
+            'className' =&gt; 'Company',
+            'foreignKey' =&gt; 'company_id'
+        )
+    );
+}</code></pre>
+<p>Perfeito! Temos os models e seus relacionamentos bem definidos! Agora, digamos que você queira apresentar os nomes dos usuários da aplicação concatenados com o nome da empresa a qual ele pertence em um combobox. Dado o problema, vamos a primeira solução: adicionar o virtualField no model User...</p>
+<pre><code class="language-php">&lt;?php
+public $virtualFields = array(
+    "user_comp" =&gt; "SELECT 
+                        CONCAT(U.name, ' - ', C.name) 
+                    FROM 
+                        users U
+                    LEFT JOIN 
+                        companies 
+                        ON (U.company_id = C.id)
+                    WHERE 
+                    U.id = User.id"
+);</code></pre>
+<p>Agora, é só fazer um <em>find</em> na action que o combobox será apresentado e tá finalizado, certo? Errado. Adicionamos uma complexidade a mais no model User, essa complexidade será adicionada em todos os finds que o model User aparecer. Não é isso que queremos, certo? Queremos apenas apresentar o nome do usuário concatenado ao nome da empresa em um combobox em uma action específica. Achei melhor criar um método específico que adicione o virtualField em tempo de execução no model User e me traga o que eu quero, uma lista de usuários, vamos ao método:</p>
+<pre><code class="language-php">&lt;?php
+public function findListUsersConcatWithCompanyName()
+{
+    $this-&gt;virtualFields['user_comp'] = "SELECT 
+                                        CONCAT(U.name, ' - ', C.name) 
+                                    FROM 
+                                        {$this-&gt;useTable} U
+                                    LEFT JOIN 
+                                        {$this-&gt;Company-&gt;useTable} C
+                                        ON (U.company_id = C.id)
+                                    WHERE 
+                                        U.id = User.id";
+
+    return $this-&gt;find('list', array(
+        'fields' =&gt; array('User.id', 'User.user_comp')
+    ));
+}</code></pre>
+<p>Pronto! Só precisamos remover o virtualField anterior e, agora, usamos esse método na action específica, ou quando quisermos.</p>
+<p>No fim, o model User se parece com isso:</p>
+<pre><code class="language-php">&lt;?php
+App::uses('AppModel', 'Model');
+
+class User extends AppModel 
+{
+    public $displayField = 'name';
+
+    public $belongsTo = array(
+        'Company' =&gt; array(
+            'className' =&gt; 'Company',
+            'foreignKey' =&gt; 'company_id',
+            'conditions' =&gt; '',
+            'fields' =&gt; '',
+            'order' =&gt; ''
+        )
+    );
+
+    /**
+     * returns an array list with the id of the user as the index and
+     * the name of the user concatenated with the company's name that 
+     * the user belongs to
+     * 
+     * @return array
+     */
+    public function findListUsersConcatWithCompanyName()
+    {
+        $this-&gt;virtualFields['user_comp'] = "SELECT 
+                                            CONCAT(U.name, ' - ', C.name) 
+                                        FROM 
+                                            {$this-&gt;useTable} U
+                                        LEFT JOIN 
+                                            {$this-&gt;Company-&gt;useTable} C
+                                            ON (U.company_id = C.id)
+                                        WHERE 
+                                            U.id = User.id";
+
+        return $this-&gt;find('list', array(
+            'fields' =&gt; array('User.id', 'User.user_comp')
+        ));
+    }
+}</code></pre>
+<p>No código final, ainda podemos mudar a vontade o nome das tabelas dos models que o método ainda funciona, pois ele está usando o atributo useTable dos models em questão.</p>
+<p>O resultado do método apresentado acima é esse:</p>
+<pre><code class="language-html">Array
+(
+    [1] =&gt; user 1 - company 2
+    [2] =&gt; user 2 - company 1
+)</code></pre>
+<h2>Conclusão</h2>
+<p>Bom pessoal, é isso. A mensagem aqui é que sempre devemos pensar no efeito que as nossas pequenas alterações fazem na aplicação como um todo e tentar otimizar isso ao máximo.</p>
+<p>Novamente, se fiz alguma cagada, façam o favor de comentar!</p>
+<p>Até a próxima!</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2013-05-15-integracao-continua-parte-2</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2013-05-15-integracao-continua-parte-2" />
+    <title>Integração Contínua - parte 2</title>
+    <published>2013-05-14T21:00:00-03:00</published>
+    <updated>2013-05-14T21:00:00-03:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">Olá! Olha aqui mais uma vez. Bom, antes de começar a falar aqui, preciso esclarecer algumas coisas. Primeiro, essa não é uma série de posts sequenciais, embora o título &amp;quot;parte1, parte2,...&amp;quot; possa sugerir isso. É apenas uma série sobre......</summary>
+    <content type="html"><![CDATA[
+        <p>Olá! Olha aqui mais uma vez. Bom, antes de começar a falar aqui, preciso esclarecer algumas coisas. Primeiro, essa não é uma série de posts sequenciais, embora o título &quot;parte1, parte2,...&quot; possa sugerir isso. É apenas uma série sobre integração contínua. Na <a href="/2013/05/15/integracao-continua-parte-1/">parte 1</a> vimos uma introdução básica sobre integração contínua. Agora, vamos aplicar em um pequeno projeto meu para testes, o <a href="https://github.com/tonyzrp/mytwitter-laravel4">MyTwitter - Laravel</a>.</p>
+<p>Nesse projeto, tenho alguns testes automatizados já configurados e rodando localmente, como podemos ver aqui:</p>
+<p><img src="/assets/images/posts/testes-locais-mytwitter-laravel4.jpg" alt="Testes automatizados locais" /></p>
+<p>Esse projeto já está integrado com o <a href="http://about.travis-ci.org/docs/">Travis-CI</a>, que é um serviço de integração contínua para projetos <em>open source</em>. Porém, vou aproveitar esse post para testar uma ferramenta nova, o <a href="http://www.phptesting.org/">PHPCI</a>, que parece ser bem interessante. Se quiser saber mais sobre <a href="https://github.com/Block8/PHPCI#what-it-does">o que ele faz</a>, <a href="https://github.com/Block8/PHPCI#pre-requisites">quais os requisitos</a>, etc.. basta acessar o <a href="https://github.com/Block8/PHPCI">repositório deles</a> no GitHub.</p>
+<h2>Mãos na massa</h2>
+<p>Bom, primeiramente vamos seguir o passo a passo para instalação:</p>
+<ul>
+<li>clonar o repositório <code>git clone <a href="https://github.com/Block8/PHPCI.git">https://github.com/Block8/PHPCI.git</a></code></li>
+<li>instalamos as dependências via composer: <code>composer install</code></li>
+<li>permissão de execução no bin console dentro do projeto: <code>chmod +x ./console</code></li>
+<li>criar o arquivo config.php: <code>echo &quot;&lt;?php&quot; &gt; config.php</code></li>
+<li>instalação do PHPCI: <code>./console phpci:install</code></li>
+</ul>
+<p>Após esses passos, o console pedirá algumas informações para a configuração do PHPCI com o MySQL.</p>
+<p>Depois disso, siga adiante:</p>
+<ul>
+<li>crie um VirtualHost apontando para o diretório clonado, lembre de permitir a reescrita de configurações: <code>AllowOverride All</code></li>
+<li>crie um arquivo .htaccess no diretório clonado com o seguinte conteúdo</li>
+</ul>
+<pre><code class="language-bash">&lt;IfModule rewrite.c&gt;
+    RewriteEngide On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ index.php [QSA,L]
+&lt;/IfModule&gt;</code></pre>
+<p>Na documentação, eles dizem para criar um cronjob para sempre executar os builds, mas vamos fazer isso manualmente.</p>
+<p>Após essas configurações do PHPCI, você consegue acessar a página no browser, essa deve ser a home:</p>
+<p><img src="/assets/images/posts/phpci-home.jpg" alt="Home do PHPCI" /></p>
+<h2>Criando um projeto</h2>
+<p>Após isso, selecionamos a opção &quot;add project&quot; no menu superior. Ele pede algumas configurações do repositório como: URL, nome do projeto, tipo do fonte (GitHub, Bitbucket ou local).</p>
+<p>Após adicionar o repositório, você é redirecionado para a tela do projeto no PHPCI. Antes de fazer o build, precisamos criar o arquivo de configuração do <em>build</em>, o <em>_config.yml</em> com o seguinte conteúdo:</p>
+<pre><code class="language-yml">build_settings:
+    ignore:
+        - "vendor"
+        - "tests"
+
+setup:
+    composer:
+        action: "install --dev"
+
+test:
+    php_mess_detector:
+        allow_failures: true
+    php_code_sniffer:
+        standard: "PSR0"
+    php_cpd:
+        allow_failures: true</code></pre>
+<p>Após adicionar o arquivo ao repositório, estamos prontos para fazer o primeiro build.</p>
+<h2>Primeiro Build</h2>
+<p>Para tal, o botão &quot;build now&quot; vai nos ajudar nessa primeira vez. Ao clicar nele, somos direcionados para a tela de visualização do build. Como você deve ter percebido, nada acontece. Isso ocorre porque não ativamos aquela <em>cron</em> que eles falam. Por isso, precisamos rodar as builds manualmente, assim:</p>
+<pre><code class="language-bash">/path/to/phpci/console phpci:run-builds</code></pre>
+<p>No melhor dos mundos, esse build deveria funcionar! Porém, meu projeto não está tão bom assim, visto que o build falhou, como podemos ver:</p>
+<p><img src="/assets/images/posts/phpci-primeiro-build-falho.jpg" alt="PHPCI primeiro build falhou" /></p>
+<p>Após alguns ajustes no meu código, podemos ver o build funcionando:</p>
+<p><img src="/assets/images/posts/phpci-last-build-success.jpg" alt="Build funcionando!" /></p>
+<p>Como vocês devem ter percebido, tive alguns problemas com o PHPCS, pois o phpci executava essa linha de comando:</p>
+<pre><code class="language-bash">RUNNING PLUGIN: php_code_sniffer
+    Executing: /var/www/phpci/vendor/bin/phpcs --standard=PSR0 --ignore=vendor/*,tests/*,app/config/*,app/database/* /var/www/phpci/build/project1-build5/
+        ERROR: the "PSR0" coding standard is not installed. The installed coding standards are Zend, Squiz, PHPCS, PSR2, PEAR, PSR1 and MySource
+PLUGIN STATUS: FAILED</code></pre>
+<p>Só consegui fazer esse comando rodar dizendo para executar no diretório <code>./app/</code>, não no root.. e não consegui fazer isso usando o PHPCI, caso alguém consiga, compartilha ai.</p>
+<h2>Conclusão</h2>
+<p>Após uma longa batalha para passar no QA, a build finalmente funcionou! Nesse exemplo, cada build foi executada na mão. Poderiamos usar o <em>cronjob</em> que eles sugerem, mas preferi assim, pelo menos para esse exemplo. No <a href="http://about.travis-ci.org/docs/">Travis</a> o <em>build</em> é disparado através de um hook no github... ou seja, a cada commit na branch master (ou nas que você definir), ele faz um build novo automaticamente.</p>
+<p>Meu dashboard até o build funcionar:</p>
+<p><img src="/assets/images/posts/phpci-all-builds-dashboard.jpg" alt="Dashboard do projeto!" /></p>
+<p>Bom, acho que é isso, galera.</p>
+<p>Fiz alguma cagada? Deixa o comentário ai.</p>
+<p>Até a próxima!</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2013-05-15-integracao-continua-parte-1</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2013-05-15-integracao-continua-parte-1" />
+    <title>Integração Contínua - parte 1</title>
+    <published>2013-05-14T21:00:00-03:00</published>
+    <updated>2013-05-14T21:00:00-03:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">Olá, senhoras e senhores. Hoje vou falar de Integração Contínua! Tenho tentado estudar esse assunto, gostaria de ter um pouco mais de tempo pra isso, mas vamos que vamos!
+Bom, segundo Martin Fowler:
+
+Integração contínua é uma prática de......</summary>
+    <content type="html"><![CDATA[
+        <p>Olá, senhoras e senhores. Hoje vou falar de Integração Contínua! Tenho tentado estudar esse assunto, gostaria de ter um pouco mais de tempo pra isso, mas vamos que vamos!</p>
+<p>Bom, segundo <a href="http://martinfowler.com/articles/continuousIntegration.html">Martin Fowler</a>:</p>
+<blockquote>
+<p>Integração contínua é uma prática de desevolvimento de <em>software</em> em que os membros de um time frequentemente integram seus trabalhos (...)</p>
+</blockquote>
+<p>Em outras palavras, é uma prática para automatizar e otimizar a integração do código de uma equipe.</p>
+<h2>Um exemplo vale mais</h2>
+<p>Acredito que a melhor forma de explicar o que é integração contínua é com um exemplo. Para tal, usarei uma versão simplificada do exemplo do próprio <a href="http://martinfowler.com/articles/continuousIntegration.html">Martin Fowler</a>. Vamos a ele, então.</p>
+<p>Digamos que eu esteja trabalhando em um projeto com uma equipe de desenvolvedores. Para completar minha tarefa, eu baixo a versão mais recente do repositório desse <em>software</em>.</p>
+<p>Altero alguns códigos de produção, sempre guiados por testes para garantir que tudo está funcionando. Temos aqui um ponto interessante, ao meu ver, não há integração contínua sem testes automatizados.</p>
+<p>Ao termino do meu trabalho, eu me certifico de que a aplicação está funcionando localmente, fazendo um <em>build</em> automatizado local e executando todos os testes. Só consideramos como <strong>sucesso</strong> se todos os testes passarem.</p>
+<p>Uma vez que os testes passaram, ai sim eu posso pensar em mandar as minhas alterações para o repositório. O lance é que, assim como eu estava desenvolvendo minhas tasks, outros desenvolvedores também estavam. Antes de mandar meu código, eu atualizo o código local com o repositório. Em caso de conflito, é minha responsabilidade resolve-los!</p>
+<p>Sem conflitos e com os testes passando, agora eu mando o código para o repositório. Meu trabalho está terminado, correto?! Não! Agora, uma nova build será feita automaticamente, pois há sempre a possibilidade de ter diferenças entre o meu ambiente local e o ambiente de <em>staging/produção</em> (esse problema pode ser minizado ou até mesmo removido usando <a href="http://www.vagrantup.com/">Vagrant</a>, por exemplo). Só quando as minhas alterações são integradas com sucesso ao <em>software</em> (aplicação é construída, todos os testes são executados, etc, etc) é que posso dizer que meu trabalho está terminado.</p>
+<p>Quando um <em>build</em> falha, o mesmo deve ser rapidamente corrigido!</p>
+<h2>Conclusão</h2>
+<p>O resultado de todo esse trabalho, é que a equipe passa menos tempo procurando erros e mais tempo em novos desafios (erro não é desafio, se é que me entendem).</p>
+<p>Embora seja um conceito muito foda, as empresas parecem não ligar muito para isso. Alguns até dizem que &quot;o importante é funcionar&quot; ou &quot;não quero código limpo, quero funcionalidade&quot;, o que acho ridículo e imaturo, profissionalmente falando.</p>
+<p>Na verdade, nem mesmo testes automatizados se encontra fácil por ai. Vejam bem, não falo que a comunidade PHP não usa, e sim empresas de pequeno/médio porte. Muito pelo contrário, vemos que as empresas que realmente se importam com seus códigos estão fazendo um belo trabalho nesse sentido.</p>
+<p>Bem, fica aqui meu pensamento.</p>
+<p>Até a próxima!</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2013-05-13-otimizando-eventos-jquery</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2013-05-13-otimizando-eventos-jquery" />
+    <title>Otimizando eventos - jQuery</title>
+    <published>2013-05-12T21:00:00-03:00</published>
+    <updated>2013-05-12T21:00:00-03:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">Bom, esse post vai ser dedicado a eventos em jQuery. Esses dias surgiram algumas dúvidas sobre a manipulação de eventos no jQuery, por isso, resolvi falar um pouco sobre isso.
+Bom, uma coisa simples de fazer em JS é adicionar event listeners no DOM.......</summary>
+    <content type="html"><![CDATA[
+        <p>Bom, esse post vai ser dedicado a eventos em jQuery. Esses dias surgiram algumas dúvidas sobre a manipulação de eventos no jQuery, por isso, resolvi falar um pouco sobre isso.</p>
+<p>Bom, uma coisa simples de fazer em JS é adicionar <em>event listeners</em> no DOM. Contudo, por ser algo trivial de ser feito, muita gente acaba fazendo de qualquer jeito. É o velho princípio do &quot;funciona?! Então, não mexe&quot;.</p>
+<p>Vejamos o exemplo abaixo:</p>
+<pre><code class="language-html">&lt;body&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Lorem 1&lt;/li&gt;
+        &lt;li&gt;Lorem 2&lt;/li&gt;
+        &lt;li&gt;Lorem 3&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;script src="//code.jquery.com/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;
+    ;(function($, document, undefined) {
+        var lista = $('ul li');
+
+        lista.on('click', function() {
+            console.log('clickou na LI : ' + $(this).html());
+        });
+    })(jQuery, document);
+    &lt;/script&gt;
+&lt;/body&gt;</code></pre>
+<p>Esse é um exemplo bem básico, ele adiciona um <em>event listener</em> no evento <em>click</em> nas LI's. Até ai, blz. Mas esse código pode ser melhorado. Para isso, vamos seguir algumas dicas do site <a href="http://desenvolvimentoparaweb.com/jquery/otimizar-codigos-jquery-aumentar-performance-front-end/">desenvolvimentoparaweb</a>.</p>
+<p>Primeiro, podemos otimizar os seletores, assim:</p>
+<pre><code class="language-js">var lista = $('ul li');</code></pre>
+<p>Ficando assim:</p>
+<pre><code class="language-js">var lista = $("ul").find('li');</code></pre>
+<p>Legal! Primeiro passo rumo à otimização foi dado!</p>
+<p>Agora, digamos que o seja necessário adicionar LI's dinamicamente na lista. Para fazer isso, vamos alterar o código da página, ficando assim:</p>
+<pre><code class="language-html">&lt;body&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Lorem 1&lt;/li&gt;
+        &lt;li&gt;Lorem 2&lt;/li&gt;
+        &lt;li&gt;Lorem 3&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;button id="add-li"&gt;Add outra LI&lt;/button&gt;
+
+    &lt;script src="//code.jquery.com/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;
+    ;(function($, document, undefined) {
+        var lista = $("ul"),
+            listaItens = lista.find('li'),
+            btnAddLI = $('#add-li');
+
+        btnAddLI.on('click', function() {
+            lista.append('&lt;li&gt;Outra LI&lt;/li&gt;');                
+        });                     
+
+        listaItens.on('click', function() {
+            console.log('clickou na LI : ' + $(this).html());
+        });
+    })(jQuery, document);
+    &lt;/script&gt;
+&lt;/body&gt;</code></pre>
+<p>Ótimo! Agora está concluído, correto? Não! Ao testar, percebemos que o <em>event listener</em> que atrelamos às LI's não se aplica as novas LI's. WTF? Em versões anteriores do jQuery alguns simplesmente utilizariam o método <em>live()</em>, o que não é tão legal assim, mas resolveria o nosso problema, pois ele adicionaria o <em>event listener</em> nas LI's existentes e em LI's que fossem adicionadas ao DOM futuramente.</p>
+<p>Essa não é a melhor solução, visto que o <em>live()</em> já está depreciado. Outro ponto importante é que quando adicionamos o evento nas LI's, acabamos criando um evento para cada LI, o que não é o &quot;ótimo&quot; da questão.</p>
+<p>E se nós, ao invés de atrelarmos o evento nas LI's, fizéssemos isso na UL? &quot;Quando alguma LI dessa UL for clicada, execute isso&quot;. Isso também é um dos pontos lá do <a href="http://desenvolvimentoparaweb.com/jquery/otimizar-codigos-jquery-aumentar-performance-front-end/">desenvolvimentoparaweb</a>.</p>
+<p>Com o código abaixo, matamos dois coelhos com uma só cajadada:</p>
+<pre><code class="language-html">&lt;body&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Lorem 1&lt;/li&gt;
+        &lt;li&gt;Lorem 2&lt;/li&gt;
+        &lt;li&gt;Lorem 3&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;button id="add-li"&gt;Add outra LI&lt;/button&gt;
+
+    &lt;script src="//code.jquery.com/jquery.min.js"&gt;&lt;/script&gt;
+    &lt;script&gt;
+    ;(function($, document, undefined) {
+        var lista = $("ul"),
+            btnAddLI = $('#add-li');
+
+        btnAddLI.on('click', function() {
+            lista.append('&lt;li&gt;Outra LI&lt;/li&gt;');                
+        });               
+
+        lista.on('click', 'li', function() {
+            console.log('clickou na LI : ' + $(this).html());
+        });
+    })(jQuery, document);
+    &lt;/script&gt;
+&lt;/body&gt;</code></pre>
+<h2>Conclusão</h2>
+<p>Embora seja um trabalho relativamente simples, há alguns pontos que precisam ser levados em conta ao manipular o DOM e adicionar eventos, etc. Não podemos simplesmente deixar &quot;funcionando&quot;. Temos sempre que pensar no &quot;ótimo&quot;! É isso que faz a diferença.  Seja ela mínima, como no exemplo acima, ou gigantesca em aplicações maiores.</p>
+<p>Até a próxima!</p>    ]]></content>
+</entry>
+            <entry>
+    <id>https://tonysm.github.io/blog/2013-05-10-antes-tarde-duke-nukem</id>
+    <link type="text/html" rel="alternate" href="https://tonysm.github.io/blog/2013-05-10-antes-tarde-duke-nukem" />
+    <title>Antes tarde Duke Nukem</title>
+    <published>2013-05-09T21:00:00-03:00</published>
+    <updated>2013-05-09T21:00:00-03:00</updated>
+    <author>
+        <name>Tony Messias</name>
+    </author>
+    <summary type="html">(Sim, eu estou voltando com essa piada velha!)
+Passei um tempo pensando em voltar com meu blog, mas perdi o source do antigo, então, bateu aquela preguiça de começar tudo de novo... Porém, hoje eu li um post do Fábio Akita e o mesmo está iniciando......</summary>
+    <content type="html"><![CDATA[
+        <p>(Sim, eu estou voltando com essa piada velha!)</p>
+<p>Passei um tempo pensando em voltar com meu blog, mas perdi o source do antigo, então, bateu aquela preguiça de começar tudo de novo... Porém, hoje eu li um post do <a href="http://www.akitaonrails.com/2013/05/10/if-campanha-iniciante-friday--2#.UY2bGKA2438">Fábio Akita</a> e o mesmo está iniciando um movimento muito legal, convocando a todos os devs para iniciarem uma série de posts voltados para os iniciantes e convidando também os iniciantes para começarem seus próprios blogs.</p>
+<p>Acredito que me enquadro em ambas as categorias, e me deu vontade de voltar a escrever. Não vou prometer nada, mas vou tentar ser mais presente na comunidade web.</p>
+<p>Bom, é isso. Vamos ver o que vem pela frente!</p>
+<p>Até mais.</p>    ]]></content>
+</entry>
+    </feed>

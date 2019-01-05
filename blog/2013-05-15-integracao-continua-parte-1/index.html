@@ -1,0 +1,202 @@
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="1">
+
+        <meta property="og:title" content="Integração Contínua - parte 1 | Tony Messias"/>
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://tonysm.github.io/blog/2013-05-15-integracao-continua-parte-1"/>
+        <meta property="og:description" content="Personal blog. Web development, Linux, and Programming in general." />
+
+        <title>Tony Messias | Integração Contínua - parte 1</title>
+
+        <link rel="home" href="https://tonysm.github.io">
+        <link rel="icon" href="/favicon.ico">
+        <link href="/blog/feed.atom" type="application/atom+xml" rel="alternate" title="Tony Messias Atom Feed">
+
+            <meta property="og:title" content="Integração Contínua - parte 1" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://tonysm.github.io/blog/2013-05-15-integracao-continua-parte-1"/>
+    <meta property="og:description" content="" />
+
+                    <!-- Insert analytics code here -->
+        
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
+        <link rel="stylesheet" href="/assets/build/css/main.css?id=2d84e82231bd173991f0">
+    </head>
+
+    <body class="flex flex-col justify-between min-h-screen bg-grey-lightest text-grey-darkest leading-normal font-sans">
+        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner">
+            <div class="container flex items-center max-w-4xl mx-auto px-4 lg:px-8">
+                <div class="flex items-center">
+                    <a href="/" title="Tony Messias home" class="inline-flex items-center">
+                        <h1 class="text-lg md:text-2xl text-blue-darkest font-semibold hover:text-blue-dark my-0">Tony Messias</h1>
+                    </a>
+                </div>
+
+                <div id="vue-search" class="flex flex-1 justify-end items-center">
+                    <search></search>
+
+                    <nav class="hidden lg:flex items-center justify-end text-lg">
+    <a title="Tony Messias Articles" href="/blog"
+        class="ml-6 text-grey-darker hover:text-blue-dark ">
+        Articles
+    </a>
+
+    <a title="Tony Messias About" href="/about"
+        class="ml-6 text-grey-darker hover:text-blue-dark ">
+        About
+    </a>
+
+</nav>
+
+                    <button class="flex justify-center items-center bg-blue border border-blue h-10 px-5 rounded-full lg:hidden focus:outline-none"
+    onclick="navMenu.toggle()"
+>
+    <svg id="js-nav-menu-show" xmlns="http://www.w3.org/2000/svg"
+        class="fill-current text-white h-9 w-4" viewBox="0 0 32 32"
+    >
+        <path d="M4,10h24c1.104,0,2-0.896,2-2s-0.896-2-2-2H4C2.896,6,2,6.896,2,8S2.896,10,4,10z M28,14H4c-1.104,0-2,0.896-2,2  s0.896,2,2,2h24c1.104,0,2-0.896,2-2S29.104,14,28,14z M28,22H4c-1.104,0-2,0.896-2,2s0.896,2,2,2h24c1.104,0,2-0.896,2-2  S29.104,22,28,22z"/>
+    </svg>
+
+    <svg id="js-nav-menu-hide" xmlns="http://www.w3.org/2000/svg"
+        class="hidden fill-current text-white h-9 w-4" viewBox="0 0 36 30"
+    >
+        <polygon points="32.8,4.4 28.6,0.2 18,10.8 7.4,0.2 3.2,4.4 13.8,15 3.2,25.6 7.4,29.8 18,19.2 28.6,29.8 32.8,25.6 22.2,15 "/>
+    </svg>
+</button>
+
+                </div>
+            </div>
+        </header>
+
+        <nav id="js-nav-menu" class="nav-menu hidden lg:hidden">
+    <ul class="list-reset my-0">
+        <li class="pl-4">
+            <a
+                title="Tony Messias Articles"
+                href="/blog"
+                class="nav-menu__item hover:text-blue "
+            >Articles</a>
+        </li>
+        <li class="pl-4">
+            <a
+                title="Tony Messias About"
+                href="/about"
+                class="nav-menu__item hover:text-blue "
+            >About</a>
+        </li>
+    </ul>
+</nav>
+
+        <main role="main" class="flex-auto w-full container max-w-xl mx-auto py-16 px-6">
+                        <img src="/assets/images/posts/tempos-modernos.jpg" alt="Integração Contínua - parte 1 cover image" class="mb-2">
+    
+    <h1 class="leading-none mb-2">Integração Contínua - parte 1</h1>
+
+    <p class="text-grey-darker text-xl md:mt-0">Tony Messias  •  May 14, 2013</p>
+
+                        <a
+                href="/blog/categories/introducao"
+                title="View posts in introducao"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >introducao</a>
+                    <a
+                href="/blog/categories/introdução"
+                title="View posts in introdução"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >introdução</a>
+                    <a
+                href="/blog/categories/integração contínua"
+                title="View posts in integração contínua"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >integração contínua</a>
+                    <a
+                href="/blog/categories/ci"
+                title="View posts in ci"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >ci</a>
+                    <a
+                href="/blog/categories/software"
+                title="View posts in software"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >software</a>
+                    <a
+                href="/blog/categories/development"
+                title="View posts in development"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >development</a>
+                    <a
+                href="/blog/categories/team"
+                title="View posts in team"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >team</a>
+                    <a
+                href="/blog/categories/iniciante"
+                title="View posts in iniciante"
+                class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
+            >iniciante</a>
+            
+    <div class="border-b border-blue-lighter mb-10 pb-4" v-pre>
+        <p>Olá, senhoras e senhores. Hoje vou falar de Integração Contínua! Tenho tentado estudar esse assunto, gostaria de ter um pouco mais de tempo pra isso, mas vamos que vamos!</p>
+<p>Bom, segundo <a href="http://martinfowler.com/articles/continuousIntegration.html">Martin Fowler</a>:</p>
+<blockquote>
+<p>Integração contínua é uma prática de desevolvimento de <em>software</em> em que os membros de um time frequentemente integram seus trabalhos (...)</p>
+</blockquote>
+<p>Em outras palavras, é uma prática para automatizar e otimizar a integração do código de uma equipe.</p>
+<h2>Um exemplo vale mais</h2>
+<p>Acredito que a melhor forma de explicar o que é integração contínua é com um exemplo. Para tal, usarei uma versão simplificada do exemplo do próprio <a href="http://martinfowler.com/articles/continuousIntegration.html">Martin Fowler</a>. Vamos a ele, então.</p>
+<p>Digamos que eu esteja trabalhando em um projeto com uma equipe de desenvolvedores. Para completar minha tarefa, eu baixo a versão mais recente do repositório desse <em>software</em>.</p>
+<p>Altero alguns códigos de produção, sempre guiados por testes para garantir que tudo está funcionando. Temos aqui um ponto interessante, ao meu ver, não há integração contínua sem testes automatizados.</p>
+<p>Ao termino do meu trabalho, eu me certifico de que a aplicação está funcionando localmente, fazendo um <em>build</em> automatizado local e executando todos os testes. Só consideramos como <strong>sucesso</strong> se todos os testes passarem.</p>
+<p>Uma vez que os testes passaram, ai sim eu posso pensar em mandar as minhas alterações para o repositório. O lance é que, assim como eu estava desenvolvendo minhas tasks, outros desenvolvedores também estavam. Antes de mandar meu código, eu atualizo o código local com o repositório. Em caso de conflito, é minha responsabilidade resolve-los!</p>
+<p>Sem conflitos e com os testes passando, agora eu mando o código para o repositório. Meu trabalho está terminado, correto?! Não! Agora, uma nova build será feita automaticamente, pois há sempre a possibilidade de ter diferenças entre o meu ambiente local e o ambiente de <em>staging/produção</em> (esse problema pode ser minizado ou até mesmo removido usando <a href="http://www.vagrantup.com/">Vagrant</a>, por exemplo). Só quando as minhas alterações são integradas com sucesso ao <em>software</em> (aplicação é construída, todos os testes são executados, etc, etc) é que posso dizer que meu trabalho está terminado.</p>
+<p>Quando um <em>build</em> falha, o mesmo deve ser rapidamente corrigido!</p>
+<h2>Conclusão</h2>
+<p>O resultado de todo esse trabalho, é que a equipe passa menos tempo procurando erros e mais tempo em novos desafios (erro não é desafio, se é que me entendem).</p>
+<p>Embora seja um conceito muito foda, as empresas parecem não ligar muito para isso. Alguns até dizem que &quot;o importante é funcionar&quot; ou &quot;não quero código limpo, quero funcionalidade&quot;, o que acho ridículo e imaturo, profissionalmente falando.</p>
+<p>Na verdade, nem mesmo testes automatizados se encontra fácil por ai. Vejam bem, não falo que a comunidade PHP não usa, e sim empresas de pequeno/médio porte. Muito pelo contrário, vemos que as empresas que realmente se importam com seus códigos estão fazendo um belo trabalho nesse sentido.</p>
+<p>Bem, fica aqui meu pensamento.</p>
+<p>Até a próxima!</p>    </div>
+
+    <nav class="flex justify-between text-sm md:text-base">
+        <div>
+                            <a href="https://tonysm.github.io/blog/2013-05-13-otimizando-eventos-jquery" title="Older Post: Otimizando eventos - jQuery">
+                    &LeftArrow; Otimizando eventos - jQuery
+                </a>
+                    </div>
+
+        <div>
+                            <a href="https://tonysm.github.io/blog/2013-05-15-integracao-continua-parte-2" title="Newer Post: Integração Contínua - parte 2">
+                    Integração Contínua - parte 2 &RightArrow;
+                </a>
+                    </div>
+    </nav>
+        </main>
+
+        <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
+            <ul class="flex flex-col md:flex-row justify-center list-reset">
+                <li>
+                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
+                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
+                </li>
+            </ul>
+        </footer>
+
+        <script src="/assets/build/js/main.js?id=8e859a7d8db413dd71b1"></script>
+
+        <script>
+    const navMenu = {
+        toggle() {
+            const menu = document.getElementById('js-nav-menu');
+            menu.classList.toggle('hidden');
+            menu.classList.toggle('lg:block');
+            document.getElementById('js-nav-menu-hide').classList.toggle('hidden');
+            document.getElementById('js-nav-menu-show').classList.toggle('hidden');
+        },
+    }
+</script>
+    </body>
+</html>
